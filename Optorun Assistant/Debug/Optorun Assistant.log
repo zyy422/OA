@@ -1,0 +1,67 @@
+﻿生成启动时间为 2018/11/26 8:35:37。
+     1>项目“D:\OA\Optorun Assistant\Optorun Assistant.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Optorun Assistant.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\SyncCommSource\SyncCom.cpp
+         SyncCom.cpp
+     1>d:\oa\synccommsource\synccom.cpp(151): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>d:\oa\synccommsource\synccom.cpp(198): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(294) : 参见“wcscpy”的声明
+     1>d:\oa\synccommsource\synccom.cpp(203): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(294) : 参见“wcscpy”的声明
+     1>d:\oa\synccommsource\synccom.cpp(208): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(294) : 参见“wcscpy”的声明
+     1>d:\oa\synccommsource\synccom.cpp(267): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(294) : 参见“wcscpy”的声明
+     1>d:\oa\synccommsource\synccom.cpp(284): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>d:\oa\synccommsource\synccom.cpp(448): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(294) : 参见“wcscpy”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\OA\Debug\Optorun Assistant.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\OA\Debug\Optorun Assistant.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"D:\OA\Debug\Optorun Assistant.lib" /MACHINE:X86 /SAFESEH "Debug\Optorun Assistant.res"
+         Debug\APCGauge.obj
+         Debug\DlgExhaustSetup.obj
+         Debug\DlgInitVacTst.obj
+         Debug\DlgSetIonGaugeMode.obj
+         Debug\DlgSetSendChar.obj
+         Debug\DlgVacBkPro.obj
+         Debug\DlgVacCurveProperty.obj
+         Debug\DlgVacErr.obj
+         Debug\DlgVacExhaustEdit.obj
+         Debug\DlgVacGaugeSetup.obj
+         Debug\DomeRotateThread.obj
+         Debug\DrawCrucibleThread.obj
+         Debug\editex.obj
+         Debug\GasController.obj
+         Debug\IBGLCom.obj
+         Debug\IonGauge.obj
+         Debug\MainFrm.obj
+         Debug\Markup.obj
+         Debug\OACnfgDoc.obj
+         Debug\OARotatorView.obj
+         Debug\OASysInfoView.obj
+         Debug\OAVacuumView.obj
+         Debug\ODMCom.obj
+         "Debug\Optorun Assistant.obj"
+         "Debug\Optorun AssistantDoc.obj"
+         Debug\PictureEx.obj
+         Debug\PlcRdWrThread.obj
+         Debug\RotatorThread.obj
+         Debug\staticex.obj
+         Debug\stdafx.obj
+         Debug\SyncCom.obj
+         Debug\SysmacPLC.obj
+         Debug\VacuumProcessThread.obj
+         Debug\Vcc500PropertyDlg.obj
+         Debug\VGC500.obj
+         Debug\ZYGraphData.obj
+         Debug\ZYGraphPlot.obj
+         Debug\ZzyWaitingThread.obj
+         Debug\CustomTabCtrl.obj
+         "Debug\TabSDIFrameWnd .obj"
+         Debug\ThemeUtil.obj
+         Optorun Assistant.vcxproj -> D:\OA\Debug\Optorun Assistant.exe
+     1>已完成生成项目“D:\OA\Optorun Assistant\Optorun Assistant.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.05

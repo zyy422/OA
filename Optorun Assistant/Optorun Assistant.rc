@@ -1,0 +1,914 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 非特定语言 resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_NEU)
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+#pragma code_page(936)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\Optorun Assistant.ico"
+IDR_OptorunAssistanTYPE ICON                    "res\\Optorun AssistantDoc.ico"
+IDI_ICON_PROPERTY       ICON                    "res\\icon1.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 242, 68
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About Optorun Assistant"
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "Optorun Assistant Version 1.0",IDC_STATIC_PROGRAM_VERSION,37,10,114,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2007",IDC_STATIC,37,25,114,8
+    DEFPUSHBUTTON   "OK",IDOK,177,45,50,16,WS_GROUP
+    LTEXT           "Program compile date",IDC_STATIC_COMPILE_DATE,37,40,114,8
+    CONTROL         "",IDC_STATIC_LOGO,"Static",SS_BLACKFRAME,169,1,66,37
+END
+
+IDD_OPTORUNASSISTANT_FORM DIALOGEX 0, 0, 428, 322
+STYLE DS_SETFONT | WS_CHILD
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    LTEXT           "PLC contact infomation",IDC_STATIC_PLC_STATE,164,9,141,11
+    GROUPBOX        "sys group",IDC_ITEM1_SYS_GROUP,7,25,286,95
+    RTEXT           "computer name:",IDC_STATIC_PC_NAME,11,56,74,8
+    RTEXT           "machine type:",IDC_STATIC_MACHINE_TYPE,11,71,74,8
+    RTEXT           "sequencer Ver:",IDC_STATIC_SEQUENCER,11,86,74,8
+    GROUPBOX        "run history",IDC_STATIC_HISTORY,7,246,176,13
+    EDITTEXT        IDC_EDIT_HISTORY,7,259,178,56,ES_MULTILINE | ES_AUTOVSCROLL | ES_AUTOHSCROLL | ES_READONLY | ES_WANTRETURN | WS_VSCROLL
+    LTEXT           "Note: run history will be display in the bottom",IDC_STATIC,209,246,212,16,NOT WS_VISIBLE
+    EDITTEXT        IDC_EDIT_HELP_TEXT,327,39,94,56,ES_MULTILINE | ES_AUTOVSCROLL | ES_READONLY | ES_WANTRETURN | WS_VSCROLL
+    CTEXT           "Help",IDC_STATIC_HELP_TITLE,332,26,47,9
+    PUSHBUTTON      "<<",IDC_BUTTON_HELP_LEFT,324,23,23,14
+    PUSHBUTTON      ">>",IDC_BUTTON_HELP_RIGHT,397,23,24,14
+    PUSHBUTTON      "Connect plc",IDC_BUTTON_CONNECT_PLC,7,7,50,14
+    PUSHBUTTON      "Close connection",IDC_BUTTON_CLOSE_CONNECTION,61,7,50,14
+    RTEXT           "Current state:",IDC_STATIC_CUR_STATE_TITLE,117,9,43,11
+    LTEXT           "pc name area",IDC_STATIC_PC_NAME_AREA,93,56,141,8
+    LTEXT           "sequencer? area",IDC_STATIC_MACHINE_SN_AREA,93,86,141,8
+    LTEXT           "machine type area",IDC_STATIC_MACHINE_TYPE_AREA,93,71,141,8
+    RTEXT           "touch panel Ver:",IDC_STATIC_TOUCHPANEL_VER,11,101,74,8
+    LTEXT           "touch panel area",IDC_STATIC_TOUCHPANEL_VER_AREA,93,101,141,8
+    RTEXT           "product Version:",IDC_STATIC_PRODUCT_VERSION,11,41,74,8
+    LTEXT           "Product verion area",IDC_STATIC_PRODUCT_VERSION_AREA,93,41,141,8
+    GROUPBOX        "Serial Port Communication Test",IDC_STATIC_SERIAL_PORT_TEST,7,128,370,104,BS_NOTIFY | NOT WS_VISIBLE
+    PUSHBUTTON      "Open",IDC_BUTTON_COM2_OPEN,178,147,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "Close",IDC_BUTTON_COM2_CLOSE,237,147,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "TEST",IDC_BUTTON_COM2_TEST,296,147,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "Open",IDC_BUTTON_COM3_OPEN,178,168,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "Close",IDC_BUTTON_COM3_CLOSE,237,168,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "TEST",IDC_BUTTON_COM3_TEST,296,168,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "Open",IDC_BUTTON_COM4_OPEN,178,189,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "Close",IDC_BUTTON_COM4_CLOSE,237,189,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "TEST",IDC_BUTTON_COM4_TEST,296,189,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "Open",IDC_BUTTON_COM5_OPEN,178,210,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "Close",IDC_BUTTON_COM5_CLOSE,237,210,50,14,NOT WS_VISIBLE
+    PUSHBUTTON      "TEST",IDC_BUTTON_COM5_TEST,296,210,50,14,NOT WS_VISIBLE
+    COMBOBOX        IDC_COMBO_COM2,122,147,48,46,CBS_DROPDOWNLIST | CBS_SORT | NOT WS_VISIBLE | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO_COM3,122,168,48,46,CBS_DROPDOWNLIST | CBS_SORT | NOT WS_VISIBLE | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO_COM4,122,189,48,46,CBS_DROPDOWNLIST | CBS_SORT | NOT WS_VISIBLE | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO_COM5,122,210,48,46,CBS_DROPDOWNLIST | CBS_SORT | NOT WS_VISIBLE | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "",IDC_BUTTON_COM2_PROPERTY,355,147,16,14,BS_ICON | NOT WS_VISIBLE
+    PUSHBUTTON      "",IDC_BUTTON_COM3_PROPERTY,355,168,16,14,BS_ICON | NOT WS_VISIBLE
+    PUSHBUTTON      "",IDC_BUTTON_COM4_PROPERTY,355,189,16,14,BS_ICON | NOT WS_VISIBLE
+    PUSHBUTTON      "",IDC_BUTTON_COM5_PROPERTY,355,210,16,14,BS_ICON | NOT WS_VISIBLE
+    LTEXT           "CRYSTAL ( COM2 ):",IDC_STATIC_COM2_TEXT,9,147,107,13,SS_NOTIFY | NOT WS_VISIBLE,WS_EX_RIGHT
+    LTEXT           "IB / GL ( COM3 ):",IDC_STATIC_COM3_TEXT,9,168,107,13,NOT WS_VISIBLE,WS_EX_RIGHT
+    LTEXT           "GAS CONTROLLER ( COM4 ):",IDC_STATIC_COM4_TEXT,9,189,107,13,NOT WS_VISIBLE,WS_EX_RIGHT
+    LTEXT           "APC ( VCC500, COM5 ):",IDC_STATIC_COM5_TEXT,9,210,107,13,NOT WS_VISIBLE,WS_EX_RIGHT
+    CONTROL         "脱机调试",IDC_CHECK_RECORD_VACUUM,"Button",BS_AUTOCHECKBOX | NOT WS_VISIBLE | WS_TABSTOP,17,236,58,10
+END
+
+IDD_OA_VACUUM_FORM DIALOGEX 0, 0, 477, 338
+STYLE DS_SETFONT | WS_CHILD | WS_SYSMENU
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    CONTROL         "Leak Rate",IDC_RADIO_LEAK_RATE,"Button",BS_AUTORADIOBUTTON,18,26,80,11
+    CONTROL         "Recorder",IDC_RADIO_RECORDER,"Button",BS_AUTORADIOBUTTON,18,41,80,11
+    CONTROL         "Exhaust",IDC_RADIO_EXHAUST,"Button",BS_AUTORADIOBUTTON,18,56,80,11
+    COMBOBOX        IDC_COMBO_MACHINE_TYPE,115,91,67,254,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_EDIT_CHAMBER_VOLUME,184,90,40,14,ES_AUTOHSCROLL
+    COMBOBOX        IDC_COMBO_INTERVAL,115,155,67,78,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+    CONTROL         "",IDC_CHECK_USING_IONGAUGE,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,115,188,40,12
+    EDITTEXT        IDC_EDIT_COMMENT,7,224,223,37,ES_MULTILINE | ES_WANTRETURN
+    LTEXT           "PLC contact infomation",IDC_STATIC_PLC_VAC_STATE,7,3,78,11
+    LTEXT           "APC gauge value(ch3)",IDC_STATIC_PENNING_VALUE_NAME,91,3,85,8,0,WS_EX_RIGHT
+    LTEXT           "x.xEyyyPa",IDC_STATIC_PENNING_VALUE,187,3,154,11,NOT WS_VISIBLE
+    LTEXT           "x.xEyyyPa",IDC_STATIC_IONGAUGE_VALUE,393,3,55,11,NOT WS_VISIBLE
+    PUSHBUTTON      "Start test",IDC_BTN_START_VACUUM_TEST,6,270,50,14
+    PUSHBUTTON      "Cancel test",IDC_BTN_CANCEL_VACUUM_TEST,64,270,50,14,WS_DISABLED
+    LTEXT           "Comment:",IDC_STATIC_COMMENT_TEXT,7,211,220,11
+    PUSHBUTTON      "",IDC_BTN_IONGAUGE_PROPERTY,450,1,16,14,BS_ICON
+    LTEXT           "Chamber volume(m^3):",IDC_STATIC_COATER_TEXT,13,92,100,11,0,WS_EX_RIGHT
+    GROUPBOX        "Test type",IDC_STATIC_TEST_TYPE,7,17,223,52
+    CONTROL         "",IDC_LIST_VACUUM_CONTENT,"SysListView32",LVS_REPORT | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,297,216,173,93
+    CONTROL         "",IDC_LIST_VACUUM_CONTENT_EXHAUST,"SysListView32",LVS_REPORT | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,329,233,141,76
+    LTEXT           "Record Interval(Seconds):",IDC_STATIC_INTERVAL_TEXT,13,158,100,11,0,WS_EX_RIGHT
+    LTEXT           "Record Time(Minutes):",IDC_STATIC_RECORD_TIME_TEXT,13,175,100,11,0,WS_EX_RIGHT
+    LTEXT           "Elapsed Time:",IDC_STATIC_ELAPSED_TIME_TEXT,119,274,55,11,0,WS_EX_RIGHT
+    LTEXT           "00:00:00",IDC_STATIC_ELAPSED_TIME,186,274,44,11
+    PUSHBUTTON      "Exhuast Setup",IDC_BUTTON_EXHAUST_ST,169,54,50,14,NOT WS_VISIBLE
+    LTEXT           "Leak rate start pressure(Pa):",IDC_STATIC_LEAKRATE_START_PRESSURE_TEXT,13,107,100,11,0,WS_EX_RIGHT
+    LTEXT           "Wait Time(Minutes):",IDC_STATIC_LEAKRATE_WAIT_TIME_TEXT,13,141,100,11,0,WS_EX_RIGHT
+    LTEXT           "Keep Time(Seconds):",IDC_STATIC_LEAKRATE_KEEP_TIME_TEXT,13,124,100,11,0,WS_EX_RIGHT
+    LTEXT           "Ion Gauge",IDC_STATIC_IONGAUGE_TEXT,334,3,49,8,0,WS_EX_RIGHT
+    GROUPBOX        "common parameters group",IDC_STATIC_PARAMETERS_GROUP_TEXT,6,73,223,134
+    PUSHBUTTON      "Clear list",IDC_BUTTON_CLEAR_LISTCTRL,237,225,50,14
+    LTEXT           "Use IonGauge:",IDC_STATIC_USE_IONGAUGE_TEXT,13,188,100,11,0,WS_EX_RIGHT
+    COMBOBOX        IDC_COMBO_RECORD_TIME,115,171,67,69,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO_LEAKRATE_START_PRESSURE,115,107,67,66,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO_LEAKRATE_KEEP_TIME,115,123,67,78,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO_VACUUM_WAIT_TIME,115,139,67,78,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Save list",IDC_BUTTON_SAVE_LISTCTRL,237,249,50,14
+    EDITTEXT        IDC_EDIT_VACUUM_HELP,7,302,223,29,ES_MULTILINE | ES_AUTOVSCROLL | ES_WANTRETURN | WS_VSCROLL
+    PUSHBUTTON      "Add Files",IDC_BTN_ADD_VACUUM_FILE,237,30,50,14
+    PUSHBUTTON      "<",IDC_SHIFT_LEFT,249,73,13,14
+    PUSHBUTTON      ">",IDC_SHIFT_RIGHT,262,73,13,14
+    PUSHBUTTON      "Curve Property",IDC_BTN_CURVE_PROPERTY,237,110,50,14
+    PUSHBUTTON      "Delete Curve",IDC_BTN_DELETE_CURVE,237,130,50,14
+    COMBOBOX        IDC_COMBO_CURVES,237,52,48,113,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "<<",IDC_SHIFT_LEFT2,236,73,13,14
+    PUSHBUTTON      ">>",IDC_SHIFT_RIGHT2,275,73,13,14
+    PUSHBUTTON      "Gauge Setup",IDC_BTN_GAUGE_SETUP,169,29,50,14,BS_ICON
+    PUSHBUTTON      "Debug-Test",IDC_BUTTON_TEST,106,28,50,14
+    PUSHBUTTON      "另存为EXCEL",IDC_BUTTON_SAVE_LISTCTRL2,237,273,50,14
+END
+
+ID_DLG_VACUUM_THREAD_ERROR DIALOGEX 0, 0, 190, 86
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Error"
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,7,65,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,133,65,50,14
+    EDITTEXT        IDC_EDIT_VACUUM_ERROR,7,7,176,56,ES_MULTILINE | ES_AUTOHSCROLL | ES_READONLY
+END
+
+IDD_DLG_SET_IONGAUGE_MODE DIALOGEX 0, 0, 228, 89
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Ion Gauge property(Only debug)"
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,171,24,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,171,50,50,14
+    GROUPBOX        "Setup Ion Gauge Recorder mode",IDC_STATIC_SETUP_MODE,7,7,156,74
+    CONTROL         "Mode 0",IDC_RADIO1,"Button",BS_AUTORADIOBUTTON | WS_GROUP | WS_TABSTOP,13,20,130,12
+    CONTROL         "Mode 1",IDC_RADIO2,"Button",BS_AUTORADIOBUTTON,13,40,130,12
+    CONTROL         "Mode 2",IDC_RADIO3,"Button",BS_AUTORADIOBUTTON,13,60,130,12
+END
+
+IDD_DIALIOG_VCC500_SEND_CHAR DIALOGEX 0, 0, 216, 97
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "VCC500 发送字符设定"
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,35,76,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,131,76,50,14
+    CONTROL         "末尾带回车换行符号",IDC_CHECK1,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,53,93,15
+    LTEXT           "原始字符是 VER?，末尾带回车换行符号。本页仅用于试验VCC500。",IDC_STATIC,7,7,202,22
+    EDITTEXT        IDC_EDIT1,7,31,202,14,ES_AUTOHSCROLL
+END
+
+IDD_DLG_EXHAUST_SETUP DIALOGEX 0, 0, 258, 198
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Exhaust Setup"
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,49,177,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,147,177,50,14
+    CONTROL         "",IDC_LIST_EXHAUST,"SysListView32",LVS_REPORT | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,7,36,244,101
+    LTEXT           "本页面设置抽速记录真空度，MV OP之前的为ch2的数据，应由人员记录，程序辅助记录有标志动作的真空度；之后为Ch3，程序自动记录。",IDC_STATIC_EXHAUST_SETUP_HELP_TEXT,7,10,244,25
+END
+
+IDD_DIALOG_INIT_VACUUM_TEST DIALOGEX 0, 0, 303, 83
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION
+CAPTION "Leak Rate Test"
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    PUSHBUTTON      "Cancel",IDCANCEL,246,62,50,14
+    LTEXT           " x.xE-x Pa",IDC_STATIC_CUR_PRESSURE,153,7,49,12
+    LTEXT           "Start Pressure:",IDC_STATIC,7,7,79,12,0,WS_EX_RIGHT
+    LTEXT           " x.xE-x Pa",IDC_STATIC_START_PRESSURE,93,7,49,12
+    LTEXT           "PASS or not",IDC_STATIC_PRESSURE_PASS,237,7,59,12,NOT WS_VISIBLE
+    LTEXT           "MAX waiting time:",IDC_STATIC,7,24,79,12,0,WS_EX_RIGHT
+    LTEXT           "10:00:00",IDC_STATIC_MAX_WAITING_TIME,94,24,49,12
+    LTEXT           "00:00:00",IDC_STATIC_ELAPSED_TIME,153,24,49,12
+    LTEXT           "00:00:10",IDC_STATIC_PRESSURE_MIN_KEEP_TIME,95,41,49,12
+    LTEXT           "00:00:00",IDC_STATIC_PRESSURE_KEEPED_TIME,153,41,49,12
+    LTEXT           "",IDC_STATIC_STATUS,7,63,212,12
+END
+
+IDD_DLG_VACUUM_EXHAUST_EDIT DIALOGEX 0, 0, 54, 13
+STYLE DS_SETFONT | WS_POPUP | WS_SYSMENU
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    EDITTEXT        IDC_EDIT1,0,0,53,13,ES_AUTOHSCROLL
+END
+
+IDD_OA_ROTATOR_FORM DIALOGEX 0, 0, 644, 380
+STYLE DS_SETFONT | WS_CHILD | WS_SYSMENU
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    PUSHBUTTON      "Init Rotation",IDC_BTN_INIT_HEARTH,144,73,50,14
+    PUSHBUTTON      "TEST",IDC_BUTTON_TEST,303,0,50,14,NOT WS_VISIBLE
+    CONTROL         "",IDC_LIST_ROTATOR_CRUCIBLE,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,3,200,272,170
+    PUSHBUTTON      "Insert",IDC_BTN_INSERT_HEARTH1,48,156,50,14,NOT WS_VISIBLE | WS_DISABLED
+    CONTROL         "",IDC_STATIC_HEARTH1_PIC,"Static",SS_BLACKRECT | NOT WS_VISIBLE,7,4,155,151
+    CONTROL         "",IDC_STATIC_HEARTH2_PIC,"Static",SS_BLACKRECT | NOT WS_VISIBLE,181,4,155,151
+    COMBOBOX        IDC_COMBO_HEARTH_1,7,156,34,54,CBS_DROPDOWN | NOT WS_VISIBLE | WS_DISABLED | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO_HEARTH_2,183,156,34,54,CBS_DROPDOWN | NOT WS_VISIBLE | WS_DISABLED | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Insert",IDC_BTN_INSERT_HEARTH2,224,156,50,14,NOT WS_VISIBLE | WS_DISABLED
+    PUSHBUTTON      "Delete",IDC_BTN_DELETE_HEARTH_ROW,286,205,50,14,WS_DISABLED
+    PUSHBUTTON      "Start",IDC_BTN_START_HEARTH_TEST,286,299,50,14,WS_DISABLED
+    PUSHBUTTON      "Cancel",IDC_BTN_CANCEL_HEARTH_TEST,286,320,50,14,WS_DISABLED
+    PUSHBUTTON      "Save",IDC_BTN_SAVE_HEARTH_LIST,286,225,50,14
+    CONTROL         "Start test from selected row(or first row)",IDC_CHECK_START_FROM_SELECTION,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,5,184,177,11
+    LTEXT           "Time Elapsed",IDC_STATIC_TEST_TIME,190,181,148,15,NOT WS_VISIBLE
+    PUSHBUTTON      "AuotCreate",IDC_BTN_CREATE_HEARTH1,112,157,50,14,NOT WS_VISIBLE | WS_DISABLED
+    PUSHBUTTON      "Auto Create",IDC_BTN_CREATE_HEARTH2,286,156,50,14,NOT WS_VISIBLE | WS_DISABLED
+    COMBOBOX        IDC_COMBO_HEARTH_12,7,156,34,54,CBS_DROPDOWNLIST | NOT WS_VISIBLE | WS_DISABLED | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO_HEARTH_22,183,156,34,54,CBS_DROPDOWNLIST | NOT WS_VISIBLE | WS_DISABLED | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Statistics Eva",IDC_BTN_STATISTICS_EVALUATION,286,347,50,14
+    CONTROL         "CW(otherwise CCW)",IDC_CHECK_HEARTH1_DIRECTION,"Button",BS_AUTOCHECKBOX | NOT WS_VISIBLE | WS_TABSTOP,5,170,87,10
+    CONTROL         "CW(otherwise CCW)",IDC_CHECK_HEARTH2_DIRECTION,"Button",BS_AUTOCHECKBOX | NOT WS_VISIBLE | WS_TABSTOP,186,170,87,10
+    LTEXT           "Omron monitor alert",IDC_STATIC_MONITOR_ALERT,376,0,231,14,NOT WS_VISIBLE
+    CONTROL         "",IDC_LIST_ROTATOR_DOME,"SysListView32",LVS_REPORT | LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,407,198,220,175
+    CONTROL         "",IDC_STATIC_DOME_HEARTH_SPACE,"Static",SS_ETCHEDVERT,342,94,1,267
+    PUSHBUTTON      "Delete",IDC_BTN_DELETE_DOME_ROW,349,205,50,14
+    PUSHBUTTON      "Start",IDC_BTN_START_DOME_TEST,349,299,50,14,WS_DISABLED
+    PUSHBUTTON      "Cancel",IDC_BTN_CANCEL_DOME_TEST,349,320,50,14,WS_DISABLED
+    PUSHBUTTON      "Save",IDC_BTN_SAVE_DOME_LIST,349,225,50,14
+    CONTROL         "Start test from selected row(or first row)",IDC_CHECK_START_FROM_SELECTION_DOME,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,349,183,177,11
+    COMBOBOX        IDC_COMBO_DOME_SPEED,351,159,34,54,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Insert",IDC_BTN_INSERT_DOME_SPEED,397,158,50,14
+    PUSHBUTTON      "Auto Create",IDC_BTN_AUTOCREATE_DOME_SPEED,461,158,50,14
+    LTEXT           "Dome Thread State",IDC_STATIC_DOME_THREAD_STATE,349,77,271,15
+END
+
+IDD_DLG_VACUUM_CURVE_PRO DIALOGEX 0, 0, 239, 75
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Curve Property"
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,185,10,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,185,29,50,14
+    LTEXT           "Name:",IDC_STATIC,10,14,34,8,0,WS_EX_RIGHT
+    EDITTEXT        IDC_EDIT1,48,11,123,14,ES_AUTOHSCROLL
+    CONTROL         "",IDC_STATIC_PIC,"Static",SS_BLACKFRAME | NOT WS_VISIBLE,48,52,92,14
+    PUSHBUTTON      "colour",IDC_BTN_COLOUR,148,52,24,14
+    LTEXT           "Illustration:",IDC_STATIC_LINE_TEXT,10,56,34,8
+    COMBOBOX        IDC_COMBO1,48,32,59,69,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO2,111,32,59,30,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Type:",IDC_STATIC,10,35,34,8,0,WS_EX_RIGHT
+    GROUPBOX        "",IDC_STATIC,7,3,171,67
+END
+
+IDD_DLG_VACUUM_BG_PRO DIALOGEX 0, 0, 257, 198
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Graph BackGround Porperty"
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,200,7,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,200,24,50,14
+    GROUPBOX        "Color",IDC_STATIC,7,7,176,31
+    GROUPBOX        "Scale",IDC_STATIC,7,43,176,83
+    GROUPBOX        "Illustration",IDC_STATIC,7,144,178,47
+    PUSHBUTTON      "Background",IDC_BTN_BG_COLOR,13,17,50,14
+    PUSHBUTTON      "Grid",IDC_BTN_GRID_COLOR,69,17,50,14
+    PUSHBUTTON      "Scale",IDC_BTN_SCALE_TEXT_COLOR,126,17,50,14
+    LTEXT           "X Grid Number:",IDC_STATIC,15,57,82,10,0,WS_EX_RIGHT
+    EDITTEXT        IDC_EDIT_X_RANGE,101,54,40,14,ES_AUTOHSCROLL | ES_NUMBER
+    LTEXT           "Y Upper Limit(Exponent):",IDC_STATIC,15,92,82,10,0,WS_EX_RIGHT
+    EDITTEXT        IDC_EDIT_Y_UPPER_EXP,101,91,40,14,ES_AUTOHSCROLL
+    LTEXT           "Y Lower Limit(Exponent):",IDC_STATIC,15,107,82,10,0,WS_EX_RIGHT
+    EDITTEXT        IDC_EDIT_Y_LOWER_EXP,101,107,40,14,ES_AUTOHSCROLL
+    CONTROL         "",IDC_STATIC_PIC,"Static",SS_BLACKFRAME,16,154,158,33
+    PUSHBUTTON      "Default",IDC_BTN_DEFAULT,200,58,50,14
+    LTEXT           "X miniutes per Grid:",IDC_STATIC,15,74,82,10,0,WS_EX_RIGHT
+    EDITTEXT        IDC_EDIT_X_MINUTES_GRID,101,73,40,14,ES_AUTOHSCROLL | ES_NUMBER
+    CONTROL         "Show X Grid",IDC_CHECK_SHOW_X_GRIDS,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,16,130,55,10
+END
+
+IDD_DLG_VACUUM_ABNOMAL_SETUP DIALOGEX 0, 0, 307, 118
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "APC and Ion Gauge Temporary Setup"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,250,73,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,250,91,50,14
+    LTEXT           "APC using gauge and Ion Gauge setup for temporary use. Program will automatically read the gauge message from PLC each time when user click ""connect plc"".",IDC_STATIC,7,7,293,21
+    LTEXT           "APC用真空计和离子真空计设置。这里的设置是临时性的，每次用户点击<连接PLC>时，程序会自动从PLC中读取配置信息。本设置针对机台调试时使用，正常情况下用户无需额外设置。",IDC_STATIC,7,31,286,31
+    GROUPBOX        "APC gauge(ch3)",IDC_STATIC,7,71,109,33
+    COMBOBOX        IDC_COMBO_APC_GAUGE,11,84,95,44,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "Ion gauge",IDC_STATIC,124,71,114,33
+    COMBOBOX        IDC_COMBO_ION_GAUGE,132,84,95,44,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_DIALIOG_SEND_CHAR DIALOGEX 0, 0, 216, 97
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "发送字符设定"
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,35,76,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,131,76,50,14
+    CONTROL         "末尾带回车换行符号",IDC_CHECK1,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,53,93,15
+    LTEXT           "本处设定解释字符串.",IDC_STATIC_COMMENT,7,7,202,22
+    EDITTEXT        IDC_EDIT1,7,31,202,14,ES_AUTOHSCROLL
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 235
+        TOPMARGIN, 1
+        BOTTOMMARGIN, 61
+    END
+
+    IDD_OPTORUNASSISTANT_FORM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 421
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 315
+    END
+
+    IDD_OA_VACUUM_FORM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 470
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 331
+    END
+
+    ID_DLG_VACUUM_THREAD_ERROR, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 183
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 79
+    END
+
+    IDD_DLG_SET_IONGAUGE_MODE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 221
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 82
+    END
+
+    IDD_DIALIOG_VCC500_SEND_CHAR, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 209
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 90
+    END
+
+    IDD_DLG_EXHAUST_SETUP, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 251
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 191
+    END
+
+    IDD_DIALOG_INIT_VACUUM_TEST, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 296
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 76
+    END
+
+    IDD_DLG_VACUUM_EXHAUST_EDIT, DIALOG
+    BEGIN
+        RIGHTMARGIN, 53
+    END
+
+    IDD_OA_ROTATOR_FORM, DIALOG
+    BEGIN
+        RIGHTMARGIN, 637
+        BOTTOMMARGIN, 373
+    END
+
+    IDD_DLG_VACUUM_CURVE_PRO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 235
+        TOPMARGIN, 3
+        BOTTOMMARGIN, 70
+    END
+
+    IDD_DLG_VACUUM_BG_PRO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 250
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 191
+    END
+
+    IDD_DLG_VACUUM_ABNOMAL_SETUP, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 300
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 111
+    END
+
+    IDD_DIALIOG_SEND_CHAR, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 209
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 90
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_OA_VACUUM_FORM DLGINIT
+BEGIN
+    IDC_COMBO_INTERVAL, 0x403, 3, 0
+0x3036, "\000" 
+    IDC_COMBO_INTERVAL, 0x403, 3, 0
+0x3035, "\000" 
+    IDC_COMBO_INTERVAL, 0x403, 3, 0
+0x3034, "\000" 
+    IDC_COMBO_INTERVAL, 0x403, 3, 0
+0x3033, "\000" 
+    IDC_COMBO_INTERVAL, 0x403, 3, 0
+0x3032, "\000" 
+    IDC_COMBO_INTERVAL, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_COMBO_INTERVAL, 0x403, 2, 0
+0x0035, 
+    IDC_COMBO_INTERVAL, 0x403, 2, 0
+0x0034, 
+    IDC_COMBO_INTERVAL, 0x403, 2, 0
+0x0032, 
+    IDC_COMBO_INTERVAL, 0x403, 2, 0
+0x0031, 
+    IDC_COMBO_RECORD_TIME, 0x403, 4, 0
+0x3633, 0x0030, 
+    IDC_COMBO_RECORD_TIME, 0x403, 4, 0
+0x3831, 0x0030, 
+    IDC_COMBO_RECORD_TIME, 0x403, 4, 0
+0x3231, 0x0030, 
+    IDC_COMBO_RECORD_TIME, 0x403, 3, 0
+0x3036, "\000" 
+    IDC_COMBO_RECORD_TIME, 0x403, 3, 0
+0x3034, "\000" 
+    IDC_COMBO_RECORD_TIME, 0x403, 3, 0
+0x3033, "\000" 
+    IDC_COMBO_RECORD_TIME, 0x403, 3, 0
+0x3032, "\000" 
+    IDC_COMBO_RECORD_TIME, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_COMBO_RECORD_TIME, 0x403, 2, 0
+0x0032, 
+    IDC_COMBO_RECORD_TIME, 0x403, 2, 0
+0x0031, 
+    IDC_COMBO_LEAKRATE_START_PRESSURE, 0x403, 7, 0
+0x2e31, 0x4530, 0x342d, "\000" 
+    IDC_COMBO_LEAKRATE_START_PRESSURE, 0x403, 7, 0
+0x2e32, 0x4530, 0x342d, "\000" 
+    IDC_COMBO_LEAKRATE_START_PRESSURE, 0x403, 7, 0
+0x2e34, 0x4530, 0x342d, "\000" 
+    IDC_COMBO_LEAKRATE_START_PRESSURE, 0x403, 7, 0
+0x2e31, 0x4530, 0x332d, "\000" 
+    IDC_COMBO_LEAKRATE_KEEP_TIME, 0x403, 3, 0
+0x3036, "\000" 
+    IDC_COMBO_LEAKRATE_KEEP_TIME, 0x403, 3, 0
+0x3035, "\000" 
+    IDC_COMBO_LEAKRATE_KEEP_TIME, 0x403, 3, 0
+0x3034, "\000" 
+    IDC_COMBO_LEAKRATE_KEEP_TIME, 0x403, 3, 0
+0x3033, "\000" 
+    IDC_COMBO_LEAKRATE_KEEP_TIME, 0x403, 3, 0
+0x3032, "\000" 
+    IDC_COMBO_LEAKRATE_KEEP_TIME, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_COMBO_LEAKRATE_KEEP_TIME, 0x403, 2, 0
+0x0035, 
+    IDC_COMBO_LEAKRATE_KEEP_TIME, 0x403, 2, 0
+0x0034, 
+    IDC_COMBO_LEAKRATE_KEEP_TIME, 0x403, 2, 0
+0x0032, 
+    IDC_COMBO_LEAKRATE_KEEP_TIME, 0x403, 2, 0
+0x0031, 
+    IDC_COMBO_VACUUM_WAIT_TIME, 0x403, 4, 0
+0x3036, 0x0030, 
+    IDC_COMBO_VACUUM_WAIT_TIME, 0x403, 4, 0
+0x3834, 0x0030, 
+    IDC_COMBO_VACUUM_WAIT_TIME, 0x403, 4, 0
+0x3033, 0x0030, 
+    IDC_COMBO_VACUUM_WAIT_TIME, 0x403, 3, 0
+0x3036, "\000" 
+    0
+END
+
+IDD_DLG_VACUUM_CURVE_PRO DLGINIT
+BEGIN
+    IDC_COMBO1, 0x403, 4, 0
+0x4f44, 0x0054, 
+    IDC_COMBO1, 0x403, 5, 0
+0x494c, 0x454e, "\000" 
+    IDC_COMBO1, 0x403, 9, 0
+0x4f44, 0x2d54, 0x494c, 0x454e, "\000" 
+    IDC_COMBO2, 0x403, 4, 0
+0x4f44, 0x0054, 
+    IDC_COMBO2, 0x403, 7, 0
+0x4944, 0x4f4d, 0x444e, "\000" 
+    IDC_COMBO2, 0x403, 10, 0
+0x4552, 0x5443, 0x4e41, 0x4c47, 0x0045, 
+    IDC_COMBO2, 0x403, 9, 0
+0x5254, 0x4149, 0x474e, 0x454c, "\000" 
+    IDC_COMBO2, 0x403, 8, 0
+0x2d58, 0x4853, 0x5041, 0x0045, 
+    IDC_COMBO2, 0x403, 6, 0
+0x5243, 0x534f, 0x0053, 
+    IDC_COMBO2, 0x403, 9, 0
+0x3158, 0x532d, 0x4148, 0x4550, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_LED_NUMBER          BITMAP                  "res\\LEDNumber.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "E&xit",                       ID_APP_EXIT
+    END
+    POPUP "&View"
+    BEGIN
+        MENUITEM "&Status Bar",                 ID_VIEW_STATUS_BAR
+        MENUITEM SEPARATOR
+        POPUP "Language"
+        BEGIN
+            MENUITEM SEPARATOR
+        END
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About Optorun Assistant...", ID_APP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// GIF
+//
+
+IDR_LOGO_GIF            GIF                     "res\\OptorunLog.gif"
+#endif    // 非特定语言 resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_MAINFRAME           BITMAP                  "res\\Toolbar.bmp"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#include ""res\\OptorunAssistant.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR 16, 15
+BEGIN
+    BUTTON      ID_FILE_NEW
+    BUTTON      ID_FILE_OPEN
+    BUTTON      ID_FILE_SAVE
+    SEPARATOR
+    BUTTON      ID_EDIT_CUT
+    BUTTON      ID_EDIT_COPY
+    BUTTON      ID_EDIT_PASTE
+    SEPARATOR
+    BUTTON      ID_FILE_PRINT
+    BUTTON      ID_APP_ABOUT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS
+BEGIN
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT, NOINVERT
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL, NOINVERT
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL, NOINVERT
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT, NOINVERT
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT, NOINVERT
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL, NOINVERT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY, NOINVERT
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904e4"
+        BEGIN
+            VALUE "CompanyName", "OPTORUN( SHANGHAI ) Co.,Ltd.\r\n86-21-36161290\r\n267 Cheng Yin Road\r\nBaoshan Urban Ind. Park\r\nShanghai P.R. China\r\nZip code:200436"
+            VALUE "FileDescription", "光驰镀膜机辅助测试软件"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "Optorun Assistant.exe"
+            VALUE "LegalCopyright", "Optorun shanghai, All rights reserved."
+            VALUE "LegalTrademarks", "OPTORUN"
+            VALUE "OriginalFilename", "Optorun Assistant.exe"
+            VALUE "ProductName", "Optorun Assistant"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// OA_FILE_DATA
+//
+
+IDR_OA_INI_FILE         OA_FILE_DATA            "D:\\OA\\debug\\OptorunAssistant.ini"
+IDR_OA_ENGLISH_LNG      OA_FILE_DATA            "D:\\OA\\debug\\language\\OA_English.lng"
+IDR_OA_CHINESE_LNG      OA_FILE_DATA            "D:\\OA\\debug\\language\\OA_Chinese.lng"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDP_OLE_INIT_FAILED     "OLE initialization failed.  Make sure that the OLE libraries are the correct version."
+END
+
+STRINGTABLE
+BEGIN
+    IDR_MAINFRAME           "Optorun Assistant\n\nOptorun Assista\n\n\nOptorunAssistant.Document\nOptorun Assistant.Document"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_APP_TITLE       "Optorun Assistant"
+    AFX_IDS_IDLEMESSAGE     "Ready"
+END
+
+STRINGTABLE
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE
+BEGIN
+    ID_FILE_NEW             "Create a new document\nNew"
+    ID_FILE_OPEN            "Open an existing document\nOpen"
+    ID_FILE_CLOSE           "Close the active document\nClose"
+    ID_FILE_SAVE            "Save the active document\nSave"
+    ID_FILE_SAVE_AS         "Save the active document with a new name\nSave As"
+END
+
+STRINGTABLE
+BEGIN
+    ID_APP_ABOUT            "Display program information, version number and copyright\nAbout"
+    ID_APP_EXIT             "Quit the application; prompts to save documents\nExit"
+END
+
+STRINGTABLE
+BEGIN
+    ID_FILE_MRU_FILE1       "Open this document"
+    ID_FILE_MRU_FILE2       "Open this document"
+    ID_FILE_MRU_FILE3       "Open this document"
+    ID_FILE_MRU_FILE4       "Open this document"
+    ID_FILE_MRU_FILE5       "Open this document"
+    ID_FILE_MRU_FILE6       "Open this document"
+    ID_FILE_MRU_FILE7       "Open this document"
+    ID_FILE_MRU_FILE8       "Open this document"
+    ID_FILE_MRU_FILE9       "Open this document"
+    ID_FILE_MRU_FILE10      "Open this document"
+    ID_FILE_MRU_FILE11      "Open this document"
+    ID_FILE_MRU_FILE12      "Open this document"
+    ID_FILE_MRU_FILE13      "Open this document"
+    ID_FILE_MRU_FILE14      "Open this document"
+    ID_FILE_MRU_FILE15      "Open this document"
+    ID_FILE_MRU_FILE16      "Open this document"
+END
+
+STRINGTABLE
+BEGIN
+    ID_NEXT_PANE            "Switch to the next window pane\nNext Pane"
+    ID_PREV_PANE            "Switch back to the previous window pane\nPrevious Pane"
+END
+
+STRINGTABLE
+BEGIN
+    ID_WINDOW_SPLIT         "Split the active window into panes\nSplit"
+END
+
+STRINGTABLE
+BEGIN
+    ID_EDIT_CLEAR           "Erase the selection\nErase"
+    ID_EDIT_CLEAR_ALL       "Erase everything\nErase All"
+    ID_EDIT_COPY            "Copy the selection and put it on the Clipboard\nCopy"
+    ID_EDIT_CUT             "Cut the selection and put it on the Clipboard\nCut"
+    ID_EDIT_FIND            "Find the specified text\nFind"
+    ID_EDIT_PASTE           "Insert Clipboard contents\nPaste"
+    ID_EDIT_REPEAT          "Repeat the last action\nRepeat"
+    ID_EDIT_REPLACE         "Replace specific text with different text\nReplace"
+    ID_EDIT_SELECT_ALL      "Select the entire document\nSelect All"
+    ID_EDIT_UNDO            "Undo the last action\nUndo"
+    ID_EDIT_REDO            "Redo the previously undone action\nRedo"
+END
+
+STRINGTABLE
+BEGIN
+    ID_VIEW_TOOLBAR         "Show or hide the toolbar\nToggle ToolBar"
+    ID_VIEW_STATUS_BAR      "Show or hide the status bar\nToggle StatusBar"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCSIZE          "Change the window size"
+    AFX_IDS_SCMOVE          "Change the window position"
+    AFX_IDS_SCMINIMIZE      "Reduce the window to an icon"
+    AFX_IDS_SCMAXIMIZE      "Enlarge the window to full size"
+    AFX_IDS_SCNEXTWINDOW    "Switch to the next document window"
+    AFX_IDS_SCPREVWINDOW    "Switch to the previous document window"
+    AFX_IDS_SCCLOSE         "Close the active window and prompts to save the documents"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCRESTORE       "Restore the window to normal size"
+    AFX_IDS_SCTASKLIST      "Activate Task List"
+END
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// 英语(美国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_CURSOR_HAND         CURSOR                  "res\\cursor1.cur"
+#endif    // 英语(美国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE 4, 2
+#pragma code_page(936)
+#include "res\OptorunAssistant.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

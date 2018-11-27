@@ -1,0 +1,3927 @@
+'Optorun Assistant.exe': Loaded 'D:\生产技术部开发课\项目-机台诊断软件\开发源程序\Optorun Assistant\debug\Optorun Assistant.exe', Symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\ntdll.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\kernel32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\user32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\gdi32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\msimg32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\comdlg32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\shlwapi.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\advapi32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\rpcrt4.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\secur32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\msvcrt.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.2982_x-ww_ac3f9c03\comctl32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\shell32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\winspool.drv', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\oledlg.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\ole32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\oleaut32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\imm32.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\lpk.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\usp10.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\uxtheme.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\Program Files\360safe\safemon\safemon.dll', Binary was not built with debug information.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\psapi.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\msctf.dll', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\version.dll', No symbols loaded.
+'Optorun Assistant.exe': Unloaded 'C:\WINDOWS\system32\version.dll'
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\system32\MSCTFIME.IME', No symbols loaded.
+'Optorun Assistant.exe': Loaded 'C:\WINDOWS\Resources\Themes\Luna\luna.msstyles', Binary was not built with debug information.
+'Optorun Assistant.exe': Unloaded 'C:\WINDOWS\Resources\Themes\Luna\luna.msstyles'
+Warning: Creating a pane with no CDocument.
+Warning: Creating a pane with no CDocument.
+START:Target Speed = 10
+dwTimeSpace = 2.33, RotationCnt = 1
+dwTimeSpace = 5.83, RotationCnt = 1
+dwTimeSpace = 5.95, RotationCnt = 1
+dwTimeSpace = 5.58, RotationCnt = 1
+dwTimeSpace = 6.15, RotationCnt = 1
+dwTimeSpace = 5.68, RotationCnt = 1
+dwTimeSpace = 6.15, RotationCnt = 1
+dwTimeSpace = 5.78, RotationCnt = 1
+dwTimeSpace = 5.95, RotationCnt = 1
+dwTimeSpace = 5.90, RotationCnt = 1
+dwTimeSpace = 6.03, RotationCnt = 1
+dwTimeSpace = 1.99, RotationCnt = 1
+dwTimeSpace = 6.03, RotationCnt = 1
+dwTimeSpace = 5.95, RotationCnt = 1
+dwTimeSpace = 5.76, RotationCnt = 1
+dwTimeSpace = 6.10, RotationCnt = 1
+dwTimeSpace = 41.39, RotationCnt = 1
+START:Target Speed = 10
+dwTimeSpace = 10.34, RotationCnt = 1
+dwTimeSpace = 7.07, RotationCnt = 1
+dwTimeSpace = 5.78, RotationCnt = 1
+dwTimeSpace = 5.90, RotationCnt = 1
+dwTimeSpace = 6.21, RotationCnt = 1
+dwTimeSpace = 5.87, RotationCnt = 1
+dwTimeSpace = 5.63, RotationCnt = 1
+dwTimeSpace = 5.95, RotationCnt = 1
+dwTimeSpace = 5.86, RotationCnt = 1
+dwTimeSpace = 5.98, RotationCnt = 1
+dwTimeSpace = 6.15, RotationCnt = 1
+dwTimeSpace = 5.93, RotationCnt = 1
+dwTimeSpace = 5.75, RotationCnt = 1
+dwTimeSpace = 5.93, RotationCnt = 1
+dwTimeSpace = 6.00, RotationCnt = 1
+dwTimeSpace = 5.83, RotationCnt = 1
+dwTimeSpace = 5.70, RotationCnt = 1
+dwTimeSpace = 6.18, RotationCnt = 1
+dwTimeSpace = 5.93, RotationCnt = 1
+dwTimeSpace = 5.92, RotationCnt = 1
+dwTimeSpace = 5.73, RotationCnt = 1
+dwTimeSpace = 6.06, RotationCnt = 1
+dwTimeSpace = 5.82, RotationCnt = 1
+dwTimeSpace = 5.96, RotationCnt = 1
+dwTimeSpace = 5.85, RotationCnt = 1
+dwTimeSpace = 5.80, RotationCnt = 1
+dwTimeSpace = 6.01, RotationCnt = 1
+dwTimeSpace = 5.78, RotationCnt = 1
+dwTimeSpace = 6.05, RotationCnt = 1
+dwTimeSpace = 5.80, RotationCnt = 1
+1:1, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.18, RotationCnt = 1
+1:2, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.65, RotationCnt = 1
+1:3, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.18, RotationCnt = 1
+1:4, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.78, RotationCnt = 1
+1:5, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.05, RotationCnt = 1
+1:6, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.98, RotationCnt = 1
+1:7, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.72, RotationCnt = 1
+1:8, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.91, RotationCnt = 1
+1:9, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.95, RotationCnt = 1
+1:10, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.78, RotationCnt = 1
+1:11, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.05, RotationCnt = 1
+1:12, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.06, RotationCnt = 1
+1:13, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.77, RotationCnt = 1
+1:14, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.06, RotationCnt = 1
+1:15, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.69, RotationCnt = 1
+1:16, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.81, RotationCnt = 1
+1:17, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.91, RotationCnt = 1
+1:18, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.97, RotationCnt = 1
+1:19, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.86, RotationCnt = 1
+1:20, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.93, RotationCnt = 1
+1:21, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.20, RotationCnt = 1
+1:22, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.62, RotationCnt = 1
+1:23, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.86, RotationCnt = 1
+1:24, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.13, RotationCnt = 1
+1:25, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.95, RotationCnt = 1
+1:26, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.80, RotationCnt = 1
+1:27, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.06, RotationCnt = 1
+1:28, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.85, RotationCnt = 1
+1:29, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.05, RotationCnt = 1
+1:30, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.83, RotationCnt = 1
+1:31, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.63, RotationCnt = 1
+1:32, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.22, RotationCnt = 1
+1:33, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.96, RotationCnt = 1
+1:34, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.78, RotationCnt = 1
+1:35, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.02, RotationCnt = 1
+1:36, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.76, RotationCnt = 1
+1:37, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.82, RotationCnt = 1
+1:38, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.08, RotationCnt = 1
+1:39, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.71, RotationCnt = 1
+1:40, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.97, RotationCnt = 1
+1:41, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.96, RotationCnt = 1
+1:42, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.97, RotationCnt = 1
+1:43, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.86, RotationCnt = 1
+1:44, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.92, RotationCnt = 1
+1:45, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.01, RotationCnt = 1
+1:46, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.98, RotationCnt = 1
+1:47, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.70, RotationCnt = 1
+1:48, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.83, RotationCnt = 1
+1:49, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.23, RotationCnt = 1
+1:50, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.69, RotationCnt = 1
+1:51, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.84, RotationCnt = 1
+1:52, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.02, RotationCnt = 1
+1:53, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.01, RotationCnt = 1
+1:54, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.77, RotationCnt = 1
+1:55, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.86, RotationCnt = 1
+1:56, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.13, RotationCnt = 1
+1:57, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.72, RotationCnt = 1
+1:58, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.11, RotationCnt = 1
+1:59, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.73, RotationCnt = 1
+1:60, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.20, RotationCnt = 1
+1:61, 2:0, 3:0, 4:0, Abn:0
+START:Target Speed = 10
+dwTimeSpace = 14.76, RotationCnt = 1
+dwTimeSpace = 6.55, RotationCnt = 1
+dwTimeSpace = 6.00, RotationCnt = 1
+dwTimeSpace = 6.11, RotationCnt = 1
+dwTimeSpace = 5.87, RotationCnt = 1
+dwTimeSpace = 5.76, RotationCnt = 1
+dwTimeSpace = 6.02, RotationCnt = 1
+dwTimeSpace = 5.76, RotationCnt = 1
+dwTimeSpace = 6.00, RotationCnt = 1
+dwTimeSpace = 5.83, RotationCnt = 1
+dwTimeSpace = 5.83, RotationCnt = 1
+dwTimeSpace = 5.92, RotationCnt = 1
+dwTimeSpace = 5.96, RotationCnt = 1
+dwTimeSpace = 6.18, RotationCnt = 1
+dwTimeSpace = 5.65, RotationCnt = 1
+dwTimeSpace = 6.10, RotationCnt = 1
+dwTimeSpace = 5.93, RotationCnt = 1
+dwTimeSpace = 5.78, RotationCnt = 1
+dwTimeSpace = 5.82, RotationCnt = 1
+dwTimeSpace = 5.96, RotationCnt = 1
+dwTimeSpace = 5.87, RotationCnt = 1
+dwTimeSpace = 6.16, RotationCnt = 1
+dwTimeSpace = 5.63, RotationCnt = 1
+dwTimeSpace = 6.25, RotationCnt = 1
+dwTimeSpace = 5.73, RotationCnt = 1
+dwTimeSpace = 5.83, RotationCnt = 1
+dwTimeSpace = 5.97, RotationCnt = 1
+dwTimeSpace = 5.81, RotationCnt = 1
+dwTimeSpace = 5.97, RotationCnt = 1
+dwTimeSpace = 6.06, RotationCnt = 1
+1:1, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.87, RotationCnt = 1
+1:2, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.01, RotationCnt = 1
+1:3, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.92, RotationCnt = 1
+1:4, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.81, RotationCnt = 1
+1:5, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.78, RotationCnt = 1
+1:6, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.17, RotationCnt = 1
+1:7, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.61, RotationCnt = 1
+1:8, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.25, RotationCnt = 1
+1:9, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.66, RotationCnt = 1
+1:10, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.90, RotationCnt = 1
+1:11, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.05, RotationCnt = 1
+1:12, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.88, RotationCnt = 1
+1:13, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.93, RotationCnt = 1
+1:14, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.80, RotationCnt = 1
+1:15, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.83, RotationCnt = 1
+1:16, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.17, RotationCnt = 1
+1:17, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.78, RotationCnt = 1
+1:18, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.03, RotationCnt = 1
+1:19, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.95, RotationCnt = 1
+1:20, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.61, RotationCnt = 1
+1:21, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.20, RotationCnt = 1
+1:22, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.88, RotationCnt = 1
+1:23, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.80, RotationCnt = 1
+1:24, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.83, RotationCnt = 1
+1:25, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.07, RotationCnt = 1
+1:26, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.81, RotationCnt = 1
+1:27, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.93, RotationCnt = 1
+1:28, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.02, RotationCnt = 1
+1:29, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.86, RotationCnt = 1
+1:30, 2:0, 3:0, 4:0, Abn:0
+'Optorun Assistant.exe': Loaded 'D:\Tools\Powerword 2003\Cjktl32.dll', Binary was not built with debug information.
+dwTimeSpace = 5.98, RotationCnt = 1
+1:31, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.92, RotationCnt = 1
+1:32, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.93, RotationCnt = 1
+1:33, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.65, RotationCnt = 1
+1:34, 2:0, 3:0, 4:0, Abn:0
+'Optorun Assistant.exe': Unloaded 'D:\Tools\Powerword 2003\Cjktl32.dll'
+dwTimeSpace = 5.91, RotationCnt = 1
+1:35, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.15, RotationCnt = 1
+1:36, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.85, RotationCnt = 1
+1:37, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.96, RotationCnt = 1
+1:38, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.80, RotationCnt = 1
+1:39, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.78, RotationCnt = 1
+1:40, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.10, RotationCnt = 1
+1:41, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.83, RotationCnt = 1
+1:42, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.92, RotationCnt = 1
+1:43, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.96, RotationCnt = 1
+1:44, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.93, RotationCnt = 1
+1:45, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.02, RotationCnt = 1
+1:46, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.96, RotationCnt = 1
+1:47, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.93, RotationCnt = 1
+1:48, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.87, RotationCnt = 1
+1:49, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.61, RotationCnt = 1
+1:50, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.07, RotationCnt = 1
+1:51, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.13, RotationCnt = 1
+1:52, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.66, RotationCnt = 1
+1:53, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.92, RotationCnt = 1
+1:54, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.81, RotationCnt = 1
+1:55, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.13, RotationCnt = 1
+1:56, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.05, RotationCnt = 1
+1:57, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.60, RotationCnt = 1
+1:58, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.15, RotationCnt = 1
+1:59, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.71, RotationCnt = 1
+1:60, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.92, RotationCnt = 1
+1:61, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.11, RotationCnt = 1
+1:62, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.65, RotationCnt = 1
+1:63, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.08, RotationCnt = 1
+1:64, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.90, RotationCnt = 1
+1:65, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.75, RotationCnt = 1
+1:66, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.26, RotationCnt = 1
+1:67, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.75, RotationCnt = 1
+1:68, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.93, RotationCnt = 1
+1:69, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.70, RotationCnt = 1
+1:70, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.98, RotationCnt = 1
+1:71, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.13, RotationCnt = 1
+1:72, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.73, RotationCnt = 1
+1:73, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.00, RotationCnt = 1
+1:74, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.82, RotationCnt = 1
+1:75, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.83, RotationCnt = 1
+1:76, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.20, RotationCnt = 1
+1:77, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.91, RotationCnt = 1
+1:78, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.65, RotationCnt = 1
+1:79, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.10, RotationCnt = 1
+1:80, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.86, RotationCnt = 1
+1:81, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.83, RotationCnt = 1
+1:82, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.90, RotationCnt = 1
+1:83, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.05, RotationCnt = 1
+1:84, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.93, RotationCnt = 1
+1:85, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.68, RotationCnt = 1
+1:86, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.17, RotationCnt = 1
+1:87, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.84, RotationCnt = 1
+1:88, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.90, RotationCnt = 1
+1:89, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.95, RotationCnt = 1
+1:90, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.75, RotationCnt = 1
+1:91, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.86, RotationCnt = 1
+1:92, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.05, RotationCnt = 1
+1:93, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.88, RotationCnt = 1
+1:94, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.82, RotationCnt = 1
+1:95, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.96, RotationCnt = 1
+1:96, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.92, RotationCnt = 1
+1:97, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.04, RotationCnt = 1
+1:98, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.00, RotationCnt = 1
+1:99, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 5.65, RotationCnt = 1
+1:100, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 6.05, RotationCnt = 1
+1:101, 2:0, 3:0, 4:0, Abn:0
+START:Target Speed = 30
+dwTimeSpace = 4.33, RotationCnt = 1
+dwTimeSpace = 4.48, RotationCnt = 1
+dwTimeSpace = 3.98, RotationCnt = 1
+dwTimeSpace = 3.23, RotationCnt = 1
+dwTimeSpace = 3.24, RotationCnt = 1
+dwTimeSpace = 2.94, RotationCnt = 1
+dwTimeSpace = 2.62, RotationCnt = 1
+dwTimeSpace = 2.47, RotationCnt = 1
+dwTimeSpace = 2.35, RotationCnt = 1
+dwTimeSpace = 2.29, RotationCnt = 1
+dwTimeSpace = 2.27, RotationCnt = 1
+dwTimeSpace = 2.35, RotationCnt = 1
+dwTimeSpace = 1.88, RotationCnt = 1
+dwTimeSpace = 2.24, RotationCnt = 1
+dwTimeSpace = 1.92, RotationCnt = 1
+dwTimeSpace = 1.98, RotationCnt = 1
+dwTimeSpace = 1.99, RotationCnt = 1
+dwTimeSpace = 1.76, RotationCnt = 1
+dwTimeSpace = 1.89, RotationCnt = 1
+dwTimeSpace = 2.20, RotationCnt = 1
+dwTimeSpace = 1.95, RotationCnt = 1
+dwTimeSpace = 1.75, RotationCnt = 1
+dwTimeSpace = 2.24, RotationCnt = 1
+dwTimeSpace = 1.80, RotationCnt = 1
+dwTimeSpace = 2.20, RotationCnt = 1
+dwTimeSpace = 1.92, RotationCnt = 1
+dwTimeSpace = 2.07, RotationCnt = 1
+dwTimeSpace = 1.77, RotationCnt = 1
+dwTimeSpace = 1.98, RotationCnt = 1
+dwTimeSpace = 2.10, RotationCnt = 1
+1:1, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.07, RotationCnt = 1
+1:2, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.95, RotationCnt = 1
+1:3, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.84, RotationCnt = 1
+1:4, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.78, RotationCnt = 1
+1:5, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.25, RotationCnt = 1
+1:6, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.92, RotationCnt = 1
+1:7, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.05, RotationCnt = 1
+1:8, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 4.02, RotationCnt = 2
+1:8, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.08, RotationCnt = 1
+1:9, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.79, RotationCnt = 1
+1:10, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.08, RotationCnt = 1
+1:11, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.87, RotationCnt = 1
+1:12, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:13, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.87, RotationCnt = 1
+1:14, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:15, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.74, RotationCnt = 1
+1:16, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.03, RotationCnt = 1
+1:17, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:18, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.09, RotationCnt = 1
+1:19, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.79, RotationCnt = 1
+1:20, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.16, RotationCnt = 1
+1:21, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:22, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.17, RotationCnt = 1
+1:23, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.92, RotationCnt = 1
+1:24, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.03, RotationCnt = 1
+1:25, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.77, RotationCnt = 1
+1:26, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.14, RotationCnt = 1
+1:27, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:28, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.90, RotationCnt = 1
+1:29, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.15, RotationCnt = 1
+1:30, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.84, RotationCnt = 1
+1:31, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:32, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.90, RotationCnt = 1
+1:33, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.30, RotationCnt = 1
+1:34, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.92, RotationCnt = 1
+1:35, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.72, RotationCnt = 1
+1:36, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.28, RotationCnt = 1
+1:37, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.67, RotationCnt = 1
+1:38, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.15, RotationCnt = 1
+1:39, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:40, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:41, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.79, RotationCnt = 1
+1:42, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.18, RotationCnt = 1
+1:43, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.77, RotationCnt = 1
+1:44, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.15, RotationCnt = 1
+1:45, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.07, RotationCnt = 1
+1:46, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.75, RotationCnt = 1
+1:47, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.22, RotationCnt = 1
+1:48, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.67, RotationCnt = 1
+1:49, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.17, RotationCnt = 1
+1:50, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.98, RotationCnt = 1
+1:51, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.94, RotationCnt = 1
+1:52, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.03, RotationCnt = 1
+1:53, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.92, RotationCnt = 1
+1:54, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.10, RotationCnt = 1
+1:55, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:56, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.12, RotationCnt = 1
+1:57, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:58, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.84, RotationCnt = 1
+1:59, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.13, RotationCnt = 1
+1:60, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.70, RotationCnt = 1
+1:61, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.12, RotationCnt = 1
+1:62, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.09, RotationCnt = 1
+1:63, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.82, RotationCnt = 1
+1:64, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:65, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:66, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.87, RotationCnt = 1
+1:67, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.78, RotationCnt = 1
+1:68, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.19, RotationCnt = 1
+1:69, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:70, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.92, RotationCnt = 1
+1:71, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.98, RotationCnt = 1
+1:72, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.12, RotationCnt = 1
+1:73, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.80, RotationCnt = 1
+1:74, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.80, RotationCnt = 1
+1:75, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.19, RotationCnt = 1
+1:76, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.13, RotationCnt = 1
+1:77, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.69, RotationCnt = 1
+1:78, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:79, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.15, RotationCnt = 1
+1:80, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:81, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:82, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:83, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.89, RotationCnt = 1
+1:84, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:85, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.07, RotationCnt = 1
+1:86, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.03, RotationCnt = 1
+1:87, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:88, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.79, RotationCnt = 1
+1:89, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.15, RotationCnt = 1
+1:90, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:91, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.77, RotationCnt = 1
+1:92, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:93, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.15, RotationCnt = 1
+1:94, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.82, RotationCnt = 1
+1:95, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:96, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.07, RotationCnt = 1
+1:97, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.80, RotationCnt = 1
+1:98, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.97, RotationCnt = 1
+1:99, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.97, RotationCnt = 1
+1:100, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.23, RotationCnt = 1
+1:101, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.77, RotationCnt = 1
+1:102, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.07, RotationCnt = 1
+1:103, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:104, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.97, RotationCnt = 1
+1:105, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.03, RotationCnt = 1
+1:106, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.80, RotationCnt = 1
+1:107, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:108, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.87, RotationCnt = 1
+1:109, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:110, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.27, RotationCnt = 1
+1:111, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.79, RotationCnt = 1
+1:112, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.93, RotationCnt = 1
+1:113, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.09, RotationCnt = 1
+1:114, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.78, RotationCnt = 1
+1:115, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.19, RotationCnt = 1
+1:116, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.98, RotationCnt = 1
+1:117, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.89, RotationCnt = 1
+1:118, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.88, RotationCnt = 1
+1:119, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:120, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.14, RotationCnt = 1
+1:121, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.93, RotationCnt = 1
+1:122, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.04, RotationCnt = 1
+1:123, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:124, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.87, RotationCnt = 1
+1:125, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.07, RotationCnt = 1
+1:126, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.13, RotationCnt = 1
+1:127, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:128, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.74, RotationCnt = 1
+1:129, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.03, RotationCnt = 1
+1:130, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.12, RotationCnt = 1
+1:131, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:132, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.14, RotationCnt = 1
+1:133, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.78, RotationCnt = 1
+1:134, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.19, RotationCnt = 1
+1:135, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:136, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.83, RotationCnt = 1
+1:137, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.07, RotationCnt = 1
+1:138, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.92, RotationCnt = 1
+1:139, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.07, RotationCnt = 1
+1:140, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:141, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:142, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.10, RotationCnt = 1
+1:143, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.77, RotationCnt = 1
+1:144, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.30, RotationCnt = 1
+1:145, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.77, RotationCnt = 1
+1:146, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.10, RotationCnt = 1
+1:147, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:148, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.75, RotationCnt = 1
+1:149, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.09, RotationCnt = 1
+1:150, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.83, RotationCnt = 1
+1:151, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.94, RotationCnt = 1
+1:152, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.30, RotationCnt = 1
+1:153, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.90, RotationCnt = 1
+1:154, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:155, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.80, RotationCnt = 1
+1:156, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.97, RotationCnt = 1
+1:157, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.30, RotationCnt = 1
+1:158, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.77, RotationCnt = 1
+1:159, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.12, RotationCnt = 1
+1:160, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.78, RotationCnt = 1
+1:161, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.92, RotationCnt = 1
+1:162, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.17, RotationCnt = 1
+1:163, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.75, RotationCnt = 1
+1:164, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.19, RotationCnt = 1
+1:165, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.03, RotationCnt = 1
+1:166, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.82, RotationCnt = 1
+1:167, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:168, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.24, RotationCnt = 1
+1:169, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.08, RotationCnt = 1
+1:170, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.87, RotationCnt = 1
+1:171, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:172, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.90, RotationCnt = 1
+1:173, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:174, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.97, RotationCnt = 1
+1:175, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:176, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.83, RotationCnt = 1
+1:177, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.99, RotationCnt = 1
+1:178, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.18, RotationCnt = 1
+1:179, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.74, RotationCnt = 1
+1:180, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.18, RotationCnt = 1
+1:181, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.79, RotationCnt = 1
+1:182, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.98, RotationCnt = 1
+1:183, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:184, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.87, RotationCnt = 1
+1:185, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.14, RotationCnt = 1
+1:186, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:187, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:188, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:189, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.99, RotationCnt = 1
+1:190, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:191, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:192, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:193, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.83, RotationCnt = 1
+1:194, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.97, RotationCnt = 1
+1:195, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.20, RotationCnt = 1
+1:196, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:197, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.92, RotationCnt = 1
+1:198, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.83, RotationCnt = 1
+1:199, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:200, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:201, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.17, RotationCnt = 1
+1:202, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.77, RotationCnt = 1
+1:203, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.13, RotationCnt = 1
+1:204, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.87, RotationCnt = 1
+1:205, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:206, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.75, RotationCnt = 1
+1:207, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:208, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.94, RotationCnt = 1
+1:209, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.25, RotationCnt = 1
+1:210, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.87, RotationCnt = 1
+1:211, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.88, RotationCnt = 1
+1:212, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.15, RotationCnt = 1
+1:213, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.99, RotationCnt = 1
+1:214, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.98, RotationCnt = 1
+1:215, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.82, RotationCnt = 1
+1:216, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.10, RotationCnt = 1
+1:217, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.79, RotationCnt = 1
+1:218, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.08, RotationCnt = 1
+1:219, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.82, RotationCnt = 1
+1:220, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.12, RotationCnt = 1
+1:221, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:222, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.15, RotationCnt = 1
+1:223, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.75, RotationCnt = 1
+1:224, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.27, RotationCnt = 1
+1:225, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.94, RotationCnt = 1
+1:226, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:227, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:228, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.84, RotationCnt = 1
+1:229, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.13, RotationCnt = 1
+1:230, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:231, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:232, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:233, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.82, RotationCnt = 1
+1:234, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.07, RotationCnt = 1
+1:235, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.90, RotationCnt = 1
+1:236, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.82, RotationCnt = 1
+1:237, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.27, RotationCnt = 1
+1:238, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.78, RotationCnt = 1
+1:239, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.94, RotationCnt = 1
+1:240, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.12, RotationCnt = 1
+1:241, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.78, RotationCnt = 1
+1:242, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.94, RotationCnt = 1
+1:243, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:244, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.25, RotationCnt = 1
+1:245, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.75, RotationCnt = 1
+1:246, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.12, RotationCnt = 1
+1:247, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:248, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:249, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.77, RotationCnt = 1
+1:250, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.15, RotationCnt = 1
+1:251, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.92, RotationCnt = 1
+1:252, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.90, RotationCnt = 1
+1:253, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.17, RotationCnt = 1
+1:254, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.90, RotationCnt = 1
+1:255, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.82, RotationCnt = 1
+1:256, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:257, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.18, RotationCnt = 1
+1:258, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.77, RotationCnt = 1
+1:259, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.89, RotationCnt = 1
+1:260, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.08, RotationCnt = 1
+1:261, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.92, RotationCnt = 1
+1:262, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.92, RotationCnt = 1
+1:263, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.17, RotationCnt = 1
+1:264, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.83, RotationCnt = 1
+1:265, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.94, RotationCnt = 1
+1:266, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:267, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.23, RotationCnt = 1
+1:268, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.67, RotationCnt = 1
+1:269, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:270, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.12, RotationCnt = 1
+1:271, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.90, RotationCnt = 1
+1:272, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.97, RotationCnt = 1
+1:273, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.00, RotationCnt = 1
+1:274, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.22, RotationCnt = 1
+1:275, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:276, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.92, RotationCnt = 1
+1:277, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.82, RotationCnt = 1
+1:278, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.90, RotationCnt = 1
+1:279, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.02, RotationCnt = 1
+1:280, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.20, RotationCnt = 1
+1:281, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.70, RotationCnt = 1
+1:282, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.20, RotationCnt = 1
+1:283, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.82, RotationCnt = 1
+1:284, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:285, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:286, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.97, RotationCnt = 1
+1:287, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.19, RotationCnt = 1
+1:288, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.85, RotationCnt = 1
+1:289, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.17, RotationCnt = 1
+1:290, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.78, RotationCnt = 1
+1:291, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.14, RotationCnt = 1
+1:292, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.93, RotationCnt = 1
+1:293, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.74, RotationCnt = 1
+1:294, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.05, RotationCnt = 1
+1:295, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.22, RotationCnt = 1
+1:296, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:297, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.90, RotationCnt = 1
+1:298, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.95, RotationCnt = 1
+1:299, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.87, RotationCnt = 1
+1:300, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 2.07, RotationCnt = 1
+1:301, 2:0, 3:0, 4:0, Abn:1
+START:Target Speed = 40
+dwTimeSpace = 0.78, RotationCnt = 1
+dwTimeSpace = 2.04, RotationCnt = 1
+dwTimeSpace = 2.03, RotationCnt = 1
+dwTimeSpace = 1.64, RotationCnt = 1
+dwTimeSpace = 1.78, RotationCnt = 1
+dwTimeSpace = 1.59, RotationCnt = 1
+dwTimeSpace = 1.68, RotationCnt = 1
+dwTimeSpace = 1.84, RotationCnt = 1
+dwTimeSpace = 1.51, RotationCnt = 1
+dwTimeSpace = 1.37, RotationCnt = 1
+dwTimeSpace = 1.77, RotationCnt = 1
+dwTimeSpace = 1.27, RotationCnt = 1
+dwTimeSpace = 1.78, RotationCnt = 1
+dwTimeSpace = 1.45, RotationCnt = 1
+dwTimeSpace = 1.37, RotationCnt = 1
+dwTimeSpace = 1.50, RotationCnt = 1
+dwTimeSpace = 1.44, RotationCnt = 1
+dwTimeSpace = 1.58, RotationCnt = 1
+dwTimeSpace = 1.35, RotationCnt = 1
+dwTimeSpace = 1.47, RotationCnt = 1
+dwTimeSpace = 1.45, RotationCnt = 1
+dwTimeSpace = 2.94, RotationCnt = 1
+dwTimeSpace = 1.70, RotationCnt = 1
+dwTimeSpace = 1.48, RotationCnt = 1
+dwTimeSpace = 1.49, RotationCnt = 1
+dwTimeSpace = 1.38, RotationCnt = 1
+dwTimeSpace = 1.49, RotationCnt = 1
+dwTimeSpace = 1.38, RotationCnt = 1
+dwTimeSpace = 1.45, RotationCnt = 1
+dwTimeSpace = 1.49, RotationCnt = 1
+1:1, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.65, RotationCnt = 1
+1:2, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:3, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.47, RotationCnt = 1
+1:4, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 3.08, RotationCnt = 1
+1:4, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.33, RotationCnt = 1
+1:5, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.69, RotationCnt = 1
+1:6, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 1.57, RotationCnt = 1
+1:7, 2:0, 3:0, 4:0, Abn:1
+dwTimeSpace = 3.03, RotationCnt = 1
+1:7, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 1.47, RotationCnt = 1
+1:8, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 1.32, RotationCnt = 1
+1:9, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 1.45, RotationCnt = 1
+1:10, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 1.50, RotationCnt = 1
+1:11, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 1.32, RotationCnt = 1
+1:12, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 1.75, RotationCnt = 1
+1:13, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 1.37, RotationCnt = 1
+1:14, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 1.35, RotationCnt = 1
+1:15, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 1.48, RotationCnt = 1
+1:16, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 1.50, RotationCnt = 1
+1:17, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 1.84, RotationCnt = 1
+1:18, 2:0, 3:0, 4:0, Abn:2
+dwTimeSpace = 2.60, RotationCnt = 1
+1:18, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.65, RotationCnt = 1
+1:19, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.44, RotationCnt = 1
+1:20, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.38, RotationCnt = 1
+1:21, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.44, RotationCnt = 1
+1:22, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.58, RotationCnt = 1
+1:23, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.42, RotationCnt = 1
+1:24, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.68, RotationCnt = 1
+1:25, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.40, RotationCnt = 1
+1:26, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.34, RotationCnt = 1
+1:27, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.68, RotationCnt = 1
+1:28, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.47, RotationCnt = 1
+1:29, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.35, RotationCnt = 1
+1:30, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.60, RotationCnt = 1
+1:31, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.45, RotationCnt = 1
+1:32, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.64, RotationCnt = 1
+1:33, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.50, RotationCnt = 1
+1:34, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.32, RotationCnt = 1
+1:35, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.35, RotationCnt = 1
+1:36, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.48, RotationCnt = 1
+1:37, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.69, RotationCnt = 1
+1:38, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.48, RotationCnt = 1
+1:39, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.57, RotationCnt = 1
+1:40, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.37, RotationCnt = 1
+1:41, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 1.65, RotationCnt = 1
+1:42, 2:0, 3:0, 4:0, Abn:3
+dwTimeSpace = 2.77, RotationCnt = 1
+1:42, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 1.38, RotationCnt = 1
+1:43, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 1.49, RotationCnt = 1
+1:44, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 1.41, RotationCnt = 1
+1:45, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 1.59, RotationCnt = 1
+1:46, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 1.40, RotationCnt = 1
+1:47, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 1.72, RotationCnt = 1
+1:48, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 1.48, RotationCnt = 1
+1:49, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 1.42, RotationCnt = 1
+1:50, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 1.35, RotationCnt = 1
+1:51, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 1.60, RotationCnt = 1
+1:52, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 1.59, RotationCnt = 1
+1:53, 2:0, 3:0, 4:0, Abn:4
+dwTimeSpace = 2.92, RotationCnt = 1
+1:53, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 1.35, RotationCnt = 1
+1:54, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 1.68, RotationCnt = 1
+1:55, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 1.42, RotationCnt = 1
+1:56, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 1.35, RotationCnt = 1
+1:57, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 1.60, RotationCnt = 1
+1:58, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 1.49, RotationCnt = 1
+1:59, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 1.43, RotationCnt = 1
+1:60, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 1.52, RotationCnt = 1
+1:61, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 1.42, RotationCnt = 1
+1:62, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 1.63, RotationCnt = 1
+1:63, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 1.40, RotationCnt = 1
+1:64, 2:0, 3:0, 4:0, Abn:5
+dwTimeSpace = 2.84, RotationCnt = 1
+1:64, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 1.57, RotationCnt = 1
+1:65, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 1.40, RotationCnt = 1
+1:66, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 1.65, RotationCnt = 1
+1:67, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 1.48, RotationCnt = 1
+1:68, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 1.44, RotationCnt = 1
+1:69, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 1.28, RotationCnt = 1
+1:70, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 1.50, RotationCnt = 1
+1:71, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 1.62, RotationCnt = 1
+1:72, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 1.55, RotationCnt = 1
+1:73, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 1.40, RotationCnt = 1
+1:74, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 1.34, RotationCnt = 1
+1:75, 2:0, 3:0, 4:0, Abn:6
+dwTimeSpace = 3.02, RotationCnt = 1
+1:75, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 1.75, RotationCnt = 1
+1:76, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 1.15, RotationCnt = 1
+1:77, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 1.82, RotationCnt = 1
+1:78, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 1.38, RotationCnt = 1
+1:79, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 1.52, RotationCnt = 1
+1:80, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 1.42, RotationCnt = 1
+1:81, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 1.32, RotationCnt = 1
+1:82, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 1.75, RotationCnt = 1
+1:83, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 1.33, RotationCnt = 1
+1:84, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 1.55, RotationCnt = 1
+1:85, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 1.52, RotationCnt = 1
+1:86, 2:0, 3:0, 4:0, Abn:7
+dwTimeSpace = 2.80, RotationCnt = 1
+1:86, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.44, RotationCnt = 1
+1:87, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.60, RotationCnt = 1
+1:88, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.48, RotationCnt = 1
+1:89, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.37, RotationCnt = 1
+1:90, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.45, RotationCnt = 1
+1:91, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.55, RotationCnt = 1
+1:92, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.44, RotationCnt = 1
+1:93, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.65, RotationCnt = 1
+1:94, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.47, RotationCnt = 1
+1:95, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.43, RotationCnt = 1
+1:96, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.40, RotationCnt = 1
+1:97, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.50, RotationCnt = 1
+1:98, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.69, RotationCnt = 1
+1:99, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.53, RotationCnt = 1
+1:100, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.39, RotationCnt = 1
+1:101, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.38, RotationCnt = 1
+1:102, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.70, RotationCnt = 1
+1:103, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.35, RotationCnt = 1
+1:104, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.42, RotationCnt = 1
+1:105, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.60, RotationCnt = 1
+1:106, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.37, RotationCnt = 1
+1:107, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.37, RotationCnt = 1
+1:108, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.57, RotationCnt = 1
+1:109, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 1.55, RotationCnt = 1
+1:110, 2:0, 3:0, 4:0, Abn:8
+dwTimeSpace = 3.03, RotationCnt = 1
+1:110, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 1.42, RotationCnt = 1
+1:111, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 1.57, RotationCnt = 1
+1:112, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 1.50, RotationCnt = 1
+1:113, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 1.38, RotationCnt = 1
+1:114, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 1.47, RotationCnt = 1
+1:115, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 1.49, RotationCnt = 1
+1:116, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 1.35, RotationCnt = 1
+1:117, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 1.43, RotationCnt = 1
+1:118, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 1.47, RotationCnt = 1
+1:119, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 1.65, RotationCnt = 1
+1:120, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 1.60, RotationCnt = 1
+1:121, 2:0, 3:0, 4:0, Abn:9
+dwTimeSpace = 2.94, RotationCnt = 1
+1:121, 2:0, 3:0, 4:0, Abn:10
+dwTimeSpace = 1.43, RotationCnt = 1
+1:122, 2:0, 3:0, 4:0, Abn:10
+dwTimeSpace = 1.39, RotationCnt = 1
+1:123, 2:0, 3:0, 4:0, Abn:10
+dwTimeSpace = 1.53, RotationCnt = 1
+1:124, 2:0, 3:0, 4:0, Abn:10
+dwTimeSpace = 2.92, RotationCnt = 1
+1:124, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 1.35, RotationCnt = 1
+1:125, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 1.52, RotationCnt = 1
+1:126, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 1.57, RotationCnt = 1
+1:127, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 1.73, RotationCnt = 1
+1:128, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 1.45, RotationCnt = 1
+1:129, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 1.42, RotationCnt = 1
+1:130, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 1.22, RotationCnt = 1
+1:131, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 1.75, RotationCnt = 1
+1:132, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 1.30, RotationCnt = 1
+1:133, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 1.44, RotationCnt = 1
+1:134, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 1.66, RotationCnt = 1
+1:135, 2:0, 3:0, 4:0, Abn:11
+dwTimeSpace = 2.82, RotationCnt = 1
+1:135, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.72, RotationCnt = 1
+1:136, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.50, RotationCnt = 1
+1:137, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.40, RotationCnt = 1
+1:138, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.34, RotationCnt = 1
+1:139, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.43, RotationCnt = 1
+1:140, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.54, RotationCnt = 1
+1:141, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.43, RotationCnt = 1
+1:142, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.60, RotationCnt = 1
+1:143, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.40, RotationCnt = 1
+1:144, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.67, RotationCnt = 1
+1:145, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.52, RotationCnt = 1
+1:146, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.15, RotationCnt = 1
+1:147, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.62, RotationCnt = 1
+1:148, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.48, RotationCnt = 1
+1:149, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.69, RotationCnt = 1
+1:150, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.53, RotationCnt = 1
+1:151, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.12, RotationCnt = 1
+1:152, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.67, RotationCnt = 1
+1:153, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.40, RotationCnt = 1
+1:154, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.48, RotationCnt = 1
+1:155, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.67, RotationCnt = 1
+1:156, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.55, RotationCnt = 1
+1:157, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.34, RotationCnt = 1
+1:158, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 1.43, RotationCnt = 1
+1:159, 2:0, 3:0, 4:0, Abn:12
+dwTimeSpace = 3.02, RotationCnt = 1
+1:159, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 1.27, RotationCnt = 1
+1:160, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 1.68, RotationCnt = 1
+1:161, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 1.34, RotationCnt = 1
+1:162, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 1.68, RotationCnt = 1
+1:163, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 1.44, RotationCnt = 1
+1:164, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 1.41, RotationCnt = 1
+1:165, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 1.46, RotationCnt = 1
+1:166, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 1.45, RotationCnt = 1
+1:167, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 1.40, RotationCnt = 1
+1:168, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 1.63, RotationCnt = 1
+1:169, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 1.57, RotationCnt = 1
+1:170, 2:0, 3:0, 4:0, Abn:13
+dwTimeSpace = 2.96, RotationCnt = 1
+1:170, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 1.29, RotationCnt = 1
+1:171, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 1.68, RotationCnt = 1
+1:172, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 1.60, RotationCnt = 1
+1:173, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 1.34, RotationCnt = 1
+1:174, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 1.58, RotationCnt = 1
+1:175, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 1.40, RotationCnt = 1
+1:176, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 1.39, RotationCnt = 1
+1:177, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 1.43, RotationCnt = 1
+1:178, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 1.59, RotationCnt = 1
+1:179, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 1.43, RotationCnt = 1
+1:180, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 1.40, RotationCnt = 1
+1:181, 2:0, 3:0, 4:0, Abn:14
+dwTimeSpace = 2.97, RotationCnt = 1
+1:181, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 1.75, RotationCnt = 1
+1:182, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 1.49, RotationCnt = 1
+1:183, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 1.35, RotationCnt = 1
+1:184, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 1.59, RotationCnt = 1
+1:185, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 1.26, RotationCnt = 1
+1:186, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 1.62, RotationCnt = 1
+1:187, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 1.47, RotationCnt = 1
+1:188, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 1.28, RotationCnt = 1
+1:189, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 1.70, RotationCnt = 1
+1:190, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 1.54, RotationCnt = 1
+1:191, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 1.43, RotationCnt = 1
+1:192, 2:0, 3:0, 4:0, Abn:15
+dwTimeSpace = 3.02, RotationCnt = 1
+1:192, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.37, RotationCnt = 1
+1:193, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.38, RotationCnt = 1
+1:194, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.74, RotationCnt = 1
+1:195, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.43, RotationCnt = 1
+1:196, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.60, RotationCnt = 1
+1:197, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.39, RotationCnt = 1
+1:198, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.30, RotationCnt = 1
+1:199, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.53, RotationCnt = 1
+1:200, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.37, RotationCnt = 1
+1:201, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.75, RotationCnt = 1
+1:202, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.34, RotationCnt = 1
+1:203, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.35, RotationCnt = 1
+1:204, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.48, RotationCnt = 1
+1:205, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.57, RotationCnt = 1
+1:206, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.42, RotationCnt = 1
+1:207, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 1.63, RotationCnt = 1
+1:208, 2:0, 3:0, 4:0, Abn:16
+dwTimeSpace = 2.82, RotationCnt = 1
+1:208, 2:0, 3:0, 4:0, Abn:17
+dwTimeSpace = 1.70, RotationCnt = 1
+1:209, 2:0, 3:0, 4:0, Abn:17
+dwTimeSpace = 1.42, RotationCnt = 1
+1:210, 2:0, 3:0, 4:0, Abn:17
+dwTimeSpace = 1.30, RotationCnt = 1
+1:211, 2:0, 3:0, 4:0, Abn:17
+dwTimeSpace = 1.50, RotationCnt = 1
+1:212, 2:0, 3:0, 4:0, Abn:17
+dwTimeSpace = 4.18, RotationCnt = 2
+1:212, 2:0, 3:0, 4:0, Abn:18
+dwTimeSpace = 2.04, RotationCnt = 2
+1:212, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.33, RotationCnt = 1
+1:213, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.57, RotationCnt = 1
+1:214, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.27, RotationCnt = 1
+1:215, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.68, RotationCnt = 1
+1:216, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.54, RotationCnt = 1
+1:217, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.36, RotationCnt = 1
+1:218, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.62, RotationCnt = 1
+1:219, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.49, RotationCnt = 1
+1:220, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.35, RotationCnt = 1
+1:221, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.58, RotationCnt = 1
+1:222, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.49, RotationCnt = 1
+1:223, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.30, RotationCnt = 1
+1:224, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.48, RotationCnt = 1
+1:225, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.45, RotationCnt = 1
+1:226, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.69, RotationCnt = 1
+1:227, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.52, RotationCnt = 1
+1:228, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.30, RotationCnt = 1
+1:229, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.68, RotationCnt = 1
+1:230, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.45, RotationCnt = 1
+1:231, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.32, RotationCnt = 1
+1:232, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.37, RotationCnt = 1
+1:233, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.57, RotationCnt = 1
+1:234, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.70, RotationCnt = 1
+1:235, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.53, RotationCnt = 1
+1:236, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.42, RotationCnt = 1
+1:237, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.35, RotationCnt = 1
+1:238, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.47, RotationCnt = 1
+1:239, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.47, RotationCnt = 1
+1:240, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 1.33, RotationCnt = 1
+1:241, 2:0, 3:0, 4:0, Abn:19
+dwTimeSpace = 3.25, RotationCnt = 1
+1:241, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 1.38, RotationCnt = 1
+1:242, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 1.57, RotationCnt = 1
+1:243, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 1.45, RotationCnt = 1
+1:244, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 1.60, RotationCnt = 1
+1:245, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 1.15, RotationCnt = 1
+1:246, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 1.69, RotationCnt = 1
+1:247, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 1.58, RotationCnt = 1
+1:248, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 1.45, RotationCnt = 1
+1:249, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 1.37, RotationCnt = 1
+1:250, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 1.55, RotationCnt = 1
+1:251, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 1.49, RotationCnt = 1
+1:252, 2:0, 3:0, 4:0, Abn:20
+dwTimeSpace = 3.08, RotationCnt = 1
+1:252, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.45, RotationCnt = 1
+1:253, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.33, RotationCnt = 1
+1:254, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.42, RotationCnt = 1
+1:255, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.43, RotationCnt = 1
+1:256, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.82, RotationCnt = 1
+1:257, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.20, RotationCnt = 1
+1:258, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.70, RotationCnt = 1
+1:259, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.34, RotationCnt = 1
+1:260, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.50, RotationCnt = 1
+1:261, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.38, RotationCnt = 1
+1:262, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.54, RotationCnt = 1
+1:263, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.48, RotationCnt = 1
+1:264, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.69, RotationCnt = 1
+1:265, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.13, RotationCnt = 1
+1:266, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.54, RotationCnt = 1
+1:267, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.58, RotationCnt = 1
+1:268, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.65, RotationCnt = 1
+1:269, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.47, RotationCnt = 1
+1:270, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.30, RotationCnt = 1
+1:271, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.60, RotationCnt = 1
+1:272, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.35, RotationCnt = 1
+1:273, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.44, RotationCnt = 1
+1:274, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.53, RotationCnt = 1
+1:275, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 1.39, RotationCnt = 1
+1:276, 2:0, 3:0, 4:0, Abn:21
+dwTimeSpace = 3.02, RotationCnt = 1
+1:276, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 1.48, RotationCnt = 1
+1:277, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 1.50, RotationCnt = 1
+1:278, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 1.50, RotationCnt = 1
+1:279, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 1.67, RotationCnt = 1
+1:280, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 1.40, RotationCnt = 1
+1:281, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 1.44, RotationCnt = 1
+1:282, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 1.43, RotationCnt = 1
+1:283, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 1.75, RotationCnt = 1
+1:284, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 1.45, RotationCnt = 1
+1:285, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 1.37, RotationCnt = 1
+1:286, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 1.55, RotationCnt = 1
+1:287, 2:0, 3:0, 4:0, Abn:22
+dwTimeSpace = 2.97, RotationCnt = 1
+1:287, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 1.55, RotationCnt = 1
+1:288, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 1.42, RotationCnt = 1
+1:289, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 1.30, RotationCnt = 1
+1:290, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 1.50, RotationCnt = 1
+1:291, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 1.42, RotationCnt = 1
+1:292, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 1.75, RotationCnt = 1
+1:293, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 1.17, RotationCnt = 1
+1:294, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 1.60, RotationCnt = 1
+1:295, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 1.45, RotationCnt = 1
+1:296, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 1.45, RotationCnt = 1
+1:297, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 1.47, RotationCnt = 1
+1:298, 2:0, 3:0, 4:0, Abn:23
+dwTimeSpace = 3.02, RotationCnt = 1
+1:298, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 1.37, RotationCnt = 1
+1:299, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 1.53, RotationCnt = 1
+1:300, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 1.52, RotationCnt = 1
+1:301, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 1.40, RotationCnt = 1
+1:302, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 1.49, RotationCnt = 1
+1:303, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 1.68, RotationCnt = 1
+1:304, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 1.50, RotationCnt = 1
+1:305, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 1.44, RotationCnt = 1
+1:306, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 1.33, RotationCnt = 1
+1:307, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 1.67, RotationCnt = 1
+1:308, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 1.44, RotationCnt = 1
+1:309, 2:0, 3:0, 4:0, Abn:24
+dwTimeSpace = 2.81, RotationCnt = 1
+1:309, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 1.47, RotationCnt = 1
+1:310, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 1.68, RotationCnt = 1
+1:311, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 1.59, RotationCnt = 1
+1:312, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 1.33, RotationCnt = 1
+1:313, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 1.32, RotationCnt = 1
+1:314, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 1.74, RotationCnt = 1
+1:315, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 1.43, RotationCnt = 1
+1:316, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 1.45, RotationCnt = 1
+1:317, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 1.55, RotationCnt = 1
+1:318, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 1.37, RotationCnt = 1
+1:319, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 1.35, RotationCnt = 1
+1:320, 2:0, 3:0, 4:0, Abn:25
+dwTimeSpace = 3.10, RotationCnt = 1
+1:320, 2:0, 3:0, 4:0, Abn:26
+dwTimeSpace = 1.72, RotationCnt = 1
+1:321, 2:0, 3:0, 4:0, Abn:26
+dwTimeSpace = 1.47, RotationCnt = 1
+1:322, 2:0, 3:0, 4:0, Abn:26
+dwTimeSpace = 1.35, RotationCnt = 1
+1:323, 2:0, 3:0, 4:0, Abn:26
+dwTimeSpace = 2.99, RotationCnt = 1
+1:323, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.30, RotationCnt = 1
+1:324, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.53, RotationCnt = 1
+1:325, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.54, RotationCnt = 1
+1:326, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.35, RotationCnt = 1
+1:327, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.78, RotationCnt = 1
+1:328, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.42, RotationCnt = 1
+1:329, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.45, RotationCnt = 1
+1:330, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.55, RotationCnt = 1
+1:331, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.24, RotationCnt = 1
+1:332, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.63, RotationCnt = 1
+1:333, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.50, RotationCnt = 1
+1:334, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.44, RotationCnt = 1
+1:335, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.38, RotationCnt = 1
+1:336, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.52, RotationCnt = 1
+1:337, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.70, RotationCnt = 1
+1:338, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.17, RotationCnt = 1
+1:339, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.43, RotationCnt = 1
+1:340, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.67, RotationCnt = 1
+1:341, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.39, RotationCnt = 1
+1:342, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.68, RotationCnt = 1
+1:343, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.45, RotationCnt = 1
+1:344, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.60, RotationCnt = 1
+1:345, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.37, RotationCnt = 1
+1:346, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.40, RotationCnt = 1
+1:347, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.54, RotationCnt = 1
+1:348, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.60, RotationCnt = 1
+1:349, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.33, RotationCnt = 1
+1:350, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.50, RotationCnt = 1
+1:351, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.37, RotationCnt = 1
+1:352, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.60, RotationCnt = 1
+1:353, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.52, RotationCnt = 1
+1:354, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.35, RotationCnt = 1
+1:355, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.74, RotationCnt = 1
+1:356, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.20, RotationCnt = 1
+1:357, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.60, RotationCnt = 1
+1:358, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.48, RotationCnt = 1
+1:359, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 1.42, RotationCnt = 1
+1:360, 2:0, 3:0, 4:0, Abn:27
+dwTimeSpace = 2.97, RotationCnt = 1
+1:360, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 1.62, RotationCnt = 1
+1:361, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 1.28, RotationCnt = 1
+1:362, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 1.50, RotationCnt = 1
+1:363, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 1.57, RotationCnt = 1
+1:364, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 1.50, RotationCnt = 1
+1:365, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 1.59, RotationCnt = 1
+1:366, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 1.33, RotationCnt = 1
+1:367, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 1.50, RotationCnt = 1
+1:368, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 1.39, RotationCnt = 1
+1:369, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 1.63, RotationCnt = 1
+1:370, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 1.40, RotationCnt = 1
+1:371, 2:0, 3:0, 4:0, Abn:28
+dwTimeSpace = 2.98, RotationCnt = 1
+1:371, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.60, RotationCnt = 1
+1:372, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.40, RotationCnt = 1
+1:373, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.32, RotationCnt = 1
+1:374, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.57, RotationCnt = 1
+1:375, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.62, RotationCnt = 1
+1:376, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.30, RotationCnt = 1
+1:377, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.47, RotationCnt = 1
+1:378, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.56, RotationCnt = 1
+1:379, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.57, RotationCnt = 1
+1:380, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.49, RotationCnt = 1
+1:381, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.35, RotationCnt = 1
+1:382, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.78, RotationCnt = 1
+1:383, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.34, RotationCnt = 1
+1:384, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.35, RotationCnt = 1
+1:385, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.53, RotationCnt = 1
+1:386, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.42, RotationCnt = 1
+1:387, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.45, RotationCnt = 1
+1:388, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.60, RotationCnt = 1
+1:389, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.40, RotationCnt = 1
+1:390, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.64, RotationCnt = 1
+1:391, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.42, RotationCnt = 1
+1:392, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.58, RotationCnt = 1
+1:393, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.45, RotationCnt = 1
+1:394, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 1.45, RotationCnt = 1
+1:395, 2:0, 3:0, 4:0, Abn:29
+dwTimeSpace = 2.82, RotationCnt = 1
+1:395, 2:0, 3:0, 4:0, Abn:30
+dwTimeSpace = 1.52, RotationCnt = 1
+1:396, 2:0, 3:0, 4:0, Abn:30
+dwTimeSpace = 1.62, RotationCnt = 1
+1:397, 2:0, 3:0, 4:0, Abn:30
+dwTimeSpace = 1.43, RotationCnt = 1
+1:398, 2:0, 3:0, 4:0, Abn:30
+dwTimeSpace = 1.55, RotationCnt = 1
+1:399, 2:0, 3:0, 4:0, Abn:30
+dwTimeSpace = 1.47, RotationCnt = 1
+1:400, 2:0, 3:0, 4:0, Abn:30
+dwTimeSpace = 1.59, RotationCnt = 1
+1:401, 2:0, 3:0, 4:0, Abn:30
+START:Target Speed = 45
+dwTimeSpace = 0.30, RotationCnt = 1
+dwTimeSpace = 1.37, RotationCnt = 1
+dwTimeSpace = 1.53, RotationCnt = 1
+dwTimeSpace = 1.42, RotationCnt = 1
+dwTimeSpace = 1.30, RotationCnt = 1
+dwTimeSpace = 1.54, RotationCnt = 1
+dwTimeSpace = 1.06, RotationCnt = 1
+dwTimeSpace = 1.47, RotationCnt = 1
+dwTimeSpace = 1.20, RotationCnt = 1
+dwTimeSpace = 1.44, RotationCnt = 1
+dwTimeSpace = 1.38, RotationCnt = 1
+dwTimeSpace = 2.52, RotationCnt = 1
+dwTimeSpace = 1.35, RotationCnt = 1
+dwTimeSpace = 1.35, RotationCnt = 1
+dwTimeSpace = 1.47, RotationCnt = 1
+dwTimeSpace = 2.67, RotationCnt = 1
+dwTimeSpace = 1.13, RotationCnt = 1
+dwTimeSpace = 1.44, RotationCnt = 1
+dwTimeSpace = 1.33, RotationCnt = 1
+dwTimeSpace = 2.44, RotationCnt = 1
+dwTimeSpace = 1.35, RotationCnt = 1
+dwTimeSpace = 1.52, RotationCnt = 1
+dwTimeSpace = 1.10, RotationCnt = 1
+dwTimeSpace = 2.90, RotationCnt = 1
+dwTimeSpace = 1.10, RotationCnt = 1
+dwTimeSpace = 1.32, RotationCnt = 1
+dwTimeSpace = 1.35, RotationCnt = 1
+dwTimeSpace = 2.52, RotationCnt = 1
+dwTimeSpace = 1.43, RotationCnt = 1
+dwTimeSpace = 1.17, RotationCnt = 1
+1:1, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:2, 2:0, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.50, RotationCnt = 1
+1:2, 2:1, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:3, 2:1, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:4, 2:1, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:5, 2:1, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.47, RotationCnt = 1
+1:5, 2:2, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.60, RotationCnt = 1
+1:6, 2:2, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.09, RotationCnt = 1
+1:7, 2:2, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:8, 2:2, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.62, RotationCnt = 1
+1:8, 2:3, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:9, 2:3, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:10, 2:3, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.49, RotationCnt = 1
+1:11, 2:3, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.38, RotationCnt = 1
+1:11, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.60, RotationCnt = 1
+1:12, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.99, RotationCnt = 1
+1:13, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:14, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.77, RotationCnt = 1
+1:14, 2:5, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:15, 2:5, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:16, 2:5, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:17, 2:5, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.40, RotationCnt = 1
+1:17, 2:6, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.44, RotationCnt = 1
+1:18, 2:6, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:19, 2:6, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:20, 2:6, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.44, RotationCnt = 1
+1:20, 2:7, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.60, RotationCnt = 1
+1:21, 2:7, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:22, 2:7, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:23, 2:7, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.48, RotationCnt = 1
+1:23, 2:8, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:24, 2:8, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:25, 2:8, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.47, RotationCnt = 1
+1:26, 2:8, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.38, RotationCnt = 1
+1:26, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.55, RotationCnt = 1
+1:27, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:28, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:29, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:30, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:31, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:32, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:33, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:34, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:35, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.14, RotationCnt = 1
+1:36, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.47, RotationCnt = 1
+1:37, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:38, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:39, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.62, RotationCnt = 1
+1:39, 2:10, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:40, 2:10, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:41, 2:10, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.55, RotationCnt = 1
+1:42, 2:10, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:43, 2:10, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:44, 2:10, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:45, 2:10, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:46, 2:10, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.23, RotationCnt = 1
+1:47, 2:10, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.44, RotationCnt = 1
+1:48, 2:10, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.88, RotationCnt = 1
+1:48, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:49, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:50, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:51, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:52, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:53, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:54, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.53, RotationCnt = 1
+1:55, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:56, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:57, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:58, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:59, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.27, RotationCnt = 1
+1:60, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.65, RotationCnt = 1
+1:61, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:62, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:63, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:64, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:65, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:66, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:67, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.47, RotationCnt = 1
+1:68, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:69, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:70, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:71, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:72, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.55, RotationCnt = 1
+1:73, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:74, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:75, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:76, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:77, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.41, RotationCnt = 1
+1:78, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.39, RotationCnt = 1
+1:79, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:80, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.44, RotationCnt = 1
+1:81, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.53, RotationCnt = 1
+1:81, 2:12, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.52, RotationCnt = 1
+1:82, 2:12, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:83, 2:12, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:84, 2:12, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.90, RotationCnt = 1
+1:84, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:85, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.19, RotationCnt = 1
+1:86, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:87, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:88, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:89, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:90, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.27, RotationCnt = 1
+1:91, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.48, RotationCnt = 1
+1:92, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.42, RotationCnt = 1
+1:92, 2:14, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:93, 2:14, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:94, 2:14, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:95, 2:14, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.54, RotationCnt = 1
+1:95, 2:15, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:96, 2:15, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:97, 2:15, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.49, RotationCnt = 1
+1:98, 2:15, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.58, RotationCnt = 1
+1:98, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:99, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:100, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:101, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.57, RotationCnt = 1
+1:101, 2:17, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:102, 2:17, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.44, RotationCnt = 1
+1:103, 2:17, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:104, 2:17, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.55, RotationCnt = 1
+1:104, 2:18, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.49, RotationCnt = 1
+1:105, 2:18, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:106, 2:18, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:107, 2:18, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.47, RotationCnt = 1
+1:107, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:108, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:109, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:110, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.96, RotationCnt = 1
+1:110, 2:20, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:111, 2:20, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:112, 2:20, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:113, 2:20, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.77, RotationCnt = 1
+1:113, 2:21, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:114, 2:21, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:115, 2:21, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.39, RotationCnt = 1
+1:116, 2:21, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.70, RotationCnt = 1
+1:116, 2:22, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:117, 2:22, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:118, 2:22, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.48, RotationCnt = 1
+1:119, 2:22, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.47, RotationCnt = 1
+1:119, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:120, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:121, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:122, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.50, RotationCnt = 1
+1:122, 2:24, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:123, 2:24, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:124, 2:24, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:125, 2:24, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.60, RotationCnt = 1
+1:125, 2:25, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.19, RotationCnt = 1
+1:126, 2:25, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:127, 2:25, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:128, 2:25, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.49, RotationCnt = 1
+1:128, 2:26, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.68, RotationCnt = 1
+1:129, 2:26, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:130, 2:26, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:131, 2:26, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.62, RotationCnt = 1
+1:131, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.03, RotationCnt = 1
+1:132, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:133, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:134, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.72, RotationCnt = 1
+1:134, 2:28, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:135, 2:28, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.52, RotationCnt = 1
+1:136, 2:28, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:137, 2:28, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.50, RotationCnt = 1
+1:137, 2:29, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:138, 2:29, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:139, 2:29, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.39, RotationCnt = 1
+1:140, 2:29, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.48, RotationCnt = 1
+1:140, 2:30, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.60, RotationCnt = 1
+1:141, 2:30, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:142, 2:30, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:143, 2:30, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.92, RotationCnt = 1
+1:143, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:144, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:145, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:146, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.92, RotationCnt = 1
+1:146, 2:32, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:147, 2:32, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:148, 2:32, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:149, 2:32, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.47, RotationCnt = 1
+1:149, 2:33, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.55, RotationCnt = 1
+1:150, 2:33, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:151, 2:33, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:152, 2:33, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.49, RotationCnt = 1
+1:152, 2:34, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:153, 2:34, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:154, 2:34, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.48, RotationCnt = 1
+1:155, 2:34, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.42, RotationCnt = 1
+1:155, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.60, RotationCnt = 1
+1:156, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:157, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:158, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.77, RotationCnt = 1
+1:158, 2:36, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:159, 2:36, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:160, 2:36, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.55, RotationCnt = 1
+1:161, 2:36, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.45, RotationCnt = 1
+1:161, 2:37, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.57, RotationCnt = 1
+1:162, 2:37, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:163, 2:37, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:164, 2:37, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.83, RotationCnt = 1
+1:164, 2:38, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:165, 2:38, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.59, RotationCnt = 1
+1:166, 2:38, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:167, 2:38, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.83, RotationCnt = 1
+1:167, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.14, RotationCnt = 1
+1:168, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:169, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.63, RotationCnt = 1
+1:170, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.54, RotationCnt = 1
+1:170, 2:40, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:171, 2:40, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.52, RotationCnt = 1
+1:172, 2:40, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:173, 2:40, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.45, RotationCnt = 1
+1:173, 2:41, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:174, 2:41, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:175, 2:41, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:176, 2:41, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:177, 2:41, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:178, 2:41, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.60, RotationCnt = 1
+1:179, 2:41, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:180, 2:41, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.57, RotationCnt = 1
+1:181, 2:41, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.53, RotationCnt = 1
+1:181, 2:42, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.29, RotationCnt = 1
+1:182, 2:42, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:183, 2:42, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.44, RotationCnt = 1
+1:184, 2:42, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.48, RotationCnt = 1
+1:184, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.44, RotationCnt = 1
+1:185, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:186, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:187, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:188, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.44, RotationCnt = 1
+1:189, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:190, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:191, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:192, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:193, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:194, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.50, RotationCnt = 1
+1:195, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:196, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:197, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.62, RotationCnt = 1
+1:197, 2:44, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:198, 2:44, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:199, 2:44, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:200, 2:44, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.87, RotationCnt = 1
+1:200, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:201, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:202, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:203, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:204, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:205, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:206, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.14, RotationCnt = 1
+1:207, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.55, RotationCnt = 1
+1:208, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:209, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.19, RotationCnt = 1
+1:210, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.06, RotationCnt = 1
+1:211, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:212, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:213, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.47, RotationCnt = 1
+1:213, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.54, RotationCnt = 1
+1:214, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:215, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:216, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:217, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:218, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:219, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.48, RotationCnt = 1
+1:220, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.04, RotationCnt = 1
+1:221, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.65, RotationCnt = 1
+1:222, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:223, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:224, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:225, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:226, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.44, RotationCnt = 1
+1:227, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:228, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:229, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.52, RotationCnt = 1
+1:230, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:231, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:232, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:233, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.39, RotationCnt = 1
+1:234, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:235, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:236, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.09, RotationCnt = 1
+1:237, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.73, RotationCnt = 1
+1:237, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:238, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:239, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:240, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.39, RotationCnt = 1
+1:240, 2:48, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:241, 2:48, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.48, RotationCnt = 1
+1:242, 2:48, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:243, 2:48, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:244, 2:48, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.57, RotationCnt = 1
+1:245, 2:48, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:246, 2:48, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:247, 2:48, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:248, 2:48, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.68, RotationCnt = 1
+1:248, 2:49, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.55, RotationCnt = 1
+1:249, 2:49, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:250, 2:49, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.27, RotationCnt = 1
+1:251, 2:49, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.87, RotationCnt = 1
+1:251, 2:50, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:252, 2:50, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:253, 2:50, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:254, 2:50, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.53, RotationCnt = 1
+1:254, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:255, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:256, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:257, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.50, RotationCnt = 1
+1:258, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.39, RotationCnt = 1
+1:259, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:260, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:261, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:262, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.98, RotationCnt = 1
+1:262, 2:52, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.99, RotationCnt = 1
+1:263, 2:52, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:264, 2:52, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:265, 2:52, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.49, RotationCnt = 1
+1:265, 2:53, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:266, 2:53, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.52, RotationCnt = 1
+1:267, 2:53, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:268, 2:53, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:269, 2:53, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.19, RotationCnt = 1
+1:270, 2:53, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:271, 2:53, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:272, 2:53, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.49, RotationCnt = 1
+1:273, 2:53, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.43, RotationCnt = 1
+1:273, 2:54, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.62, RotationCnt = 1
+1:274, 2:54, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:275, 2:54, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:276, 2:54, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.52, RotationCnt = 1
+1:276, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:277, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:278, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.47, RotationCnt = 1
+1:279, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.48, RotationCnt = 1
+1:279, 2:56, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:280, 2:56, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.04, RotationCnt = 1
+1:281, 2:56, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:282, 2:56, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.58, RotationCnt = 1
+1:282, 2:57, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.47, RotationCnt = 1
+1:283, 2:57, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.19, RotationCnt = 1
+1:284, 2:57, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:285, 2:57, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.53, RotationCnt = 1
+1:285, 2:58, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.44, RotationCnt = 1
+1:286, 2:58, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:287, 2:58, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:288, 2:58, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.72, RotationCnt = 1
+1:288, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:289, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.49, RotationCnt = 1
+1:290, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:291, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.30, RotationCnt = 1
+1:291, 2:60, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:292, 2:60, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:293, 2:60, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.50, RotationCnt = 1
+1:294, 2:60, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.42, RotationCnt = 1
+1:294, 2:61, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.57, RotationCnt = 1
+1:295, 2:61, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:296, 2:61, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:297, 2:61, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.62, RotationCnt = 1
+1:297, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:298, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:299, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:300, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.70, RotationCnt = 1
+1:300, 2:63, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:301, 2:63, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:302, 2:63, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:303, 2:63, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.54, RotationCnt = 1
+1:303, 2:64, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.53, RotationCnt = 1
+1:304, 2:64, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:305, 2:64, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:306, 2:64, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.57, RotationCnt = 1
+1:306, 2:65, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:307, 2:65, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:308, 2:65, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:309, 2:65, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.47, RotationCnt = 1
+1:309, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.52, RotationCnt = 1
+1:310, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:311, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.29, RotationCnt = 1
+1:312, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.60, RotationCnt = 1
+1:312, 2:67, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:313, 2:67, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:314, 2:67, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:315, 2:67, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.72, RotationCnt = 1
+1:315, 2:68, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:316, 2:68, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:317, 2:68, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:318, 2:68, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.59, RotationCnt = 1
+1:318, 2:69, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.48, RotationCnt = 1
+1:319, 2:69, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:320, 2:69, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.50, RotationCnt = 1
+1:321, 2:69, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.67, RotationCnt = 1
+1:321, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:322, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:323, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:324, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.84, RotationCnt = 1
+1:324, 2:71, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:325, 2:71, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:326, 2:71, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.50, RotationCnt = 1
+1:327, 2:71, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.67, RotationCnt = 1
+1:327, 2:72, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:328, 2:72, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.39, RotationCnt = 1
+1:329, 2:72, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:330, 2:72, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.72, RotationCnt = 1
+1:330, 2:73, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:331, 2:73, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:332, 2:73, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:333, 2:73, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.77, RotationCnt = 1
+1:333, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.36, RotationCnt = 1
+1:334, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:335, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.39, RotationCnt = 1
+1:336, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.50, RotationCnt = 1
+1:336, 2:75, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:337, 2:75, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:338, 2:75, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:339, 2:75, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.62, RotationCnt = 1
+1:339, 2:76, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:340, 2:76, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:341, 2:76, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:342, 2:76, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.55, RotationCnt = 1
+1:342, 2:77, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:343, 2:77, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:344, 2:77, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:345, 2:77, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.82, RotationCnt = 1
+1:345, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:346, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:347, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:348, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.60, RotationCnt = 1
+1:348, 2:79, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:349, 2:79, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:350, 2:79, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:351, 2:79, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.72, RotationCnt = 1
+1:351, 2:80, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:352, 2:80, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.52, RotationCnt = 1
+1:353, 2:80, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:354, 2:80, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.90, RotationCnt = 1
+1:354, 2:81, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:355, 2:81, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:356, 2:81, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:357, 2:81, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:358, 2:81, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.50, RotationCnt = 1
+1:359, 2:81, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:360, 2:81, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:361, 2:81, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:362, 2:81, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.52, RotationCnt = 1
+1:362, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:363, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:364, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:365, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.85, RotationCnt = 1
+1:365, 2:83, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.09, RotationCnt = 1
+1:366, 2:83, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.41, RotationCnt = 1
+1:367, 2:83, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.29, RotationCnt = 1
+1:368, 2:83, 3:0, 4:0, Abn:0
+START:Target Speed = 50
+dwTimeSpace = 0.35, RotationCnt = 1
+dwTimeSpace = 1.38, RotationCnt = 1
+dwTimeSpace = 1.15, RotationCnt = 1
+dwTimeSpace = 1.19, RotationCnt = 1
+dwTimeSpace = 1.46, RotationCnt = 1
+dwTimeSpace = 2.17, RotationCnt = 1
+dwTimeSpace = 2.49, RotationCnt = 1
+dwTimeSpace = 1.23, RotationCnt = 1
+dwTimeSpace = 1.09, RotationCnt = 1
+dwTimeSpace = 1.13, RotationCnt = 1
+dwTimeSpace = 1.27, RotationCnt = 1
+dwTimeSpace = 1.08, RotationCnt = 1
+dwTimeSpace = 1.49, RotationCnt = 1
+dwTimeSpace = 1.08, RotationCnt = 1
+dwTimeSpace = 1.07, RotationCnt = 1
+dwTimeSpace = 1.18, RotationCnt = 1
+dwTimeSpace = 2.44, RotationCnt = 1
+dwTimeSpace = 2.23, RotationCnt = 1
+dwTimeSpace = 2.57, RotationCnt = 1
+dwTimeSpace = 2.25, RotationCnt = 1
+dwTimeSpace = 1.34, RotationCnt = 1
+dwTimeSpace = 1.03, RotationCnt = 1
+dwTimeSpace = 1.20, RotationCnt = 1
+dwTimeSpace = 1.39, RotationCnt = 1
+dwTimeSpace = 0.93, RotationCnt = 1
+dwTimeSpace = 1.47, RotationCnt = 1
+dwTimeSpace = 1.07, RotationCnt = 1
+dwTimeSpace = 1.08, RotationCnt = 1
+dwTimeSpace = 1.15, RotationCnt = 1
+dwTimeSpace = 2.57, RotationCnt = 1
+1:0, 2:1, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.45, RotationCnt = 1
+1:0, 2:2, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.37, RotationCnt = 1
+1:0, 2:3, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.20, RotationCnt = 1
+1:0, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:1, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:2, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:3, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:4, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:5, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.03, RotationCnt = 1
+1:6, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.52, RotationCnt = 1
+1:7, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.98, RotationCnt = 1
+1:8, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:9, 2:4, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.65, RotationCnt = 1
+1:9, 2:5, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.29, RotationCnt = 1
+1:9, 2:6, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.22, RotationCnt = 1
+1:9, 2:7, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.38, RotationCnt = 1
+1:9, 2:8, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.51, RotationCnt = 1
+1:9, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.06, RotationCnt = 1
+1:10, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:11, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:12, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.97, RotationCnt = 1
+1:13, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:14, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:15, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:16, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:17, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:18, 2:9, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.54, RotationCnt = 1
+1:18, 2:10, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.25, RotationCnt = 1
+1:18, 2:11, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.32, RotationCnt = 1
+1:18, 2:12, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.18, RotationCnt = 1
+1:18, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:19, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:20, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:21, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:22, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.03, RotationCnt = 1
+1:23, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:24, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:25, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.39, RotationCnt = 1
+1:26, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:27, 2:13, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.37, RotationCnt = 1
+1:27, 2:14, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.50, RotationCnt = 1
+1:27, 2:15, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.17, RotationCnt = 1
+1:27, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:28, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:29, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.98, RotationCnt = 1
+1:30, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:31, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.03, RotationCnt = 1
+1:32, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:33, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:34, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:35, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:36, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.95, RotationCnt = 1
+1:37, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:38, 2:16, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.14, RotationCnt = 1
+1:38, 2:17, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.38, RotationCnt = 1
+1:38, 2:18, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.57, RotationCnt = 1
+1:38, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:39, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:40, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:41, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:42, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:43, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.04, RotationCnt = 1
+1:44, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:45, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:46, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:47, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:48, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:49, 2:19, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.25, RotationCnt = 1
+1:49, 2:20, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.42, RotationCnt = 1
+1:49, 2:21, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.62, RotationCnt = 1
+1:49, 2:22, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.40, RotationCnt = 1
+1:49, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:50, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.09, RotationCnt = 1
+1:51, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:52, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:53, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.39, RotationCnt = 1
+1:54, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.90, RotationCnt = 1
+1:55, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:56, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:57, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:58, 2:23, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.20, RotationCnt = 1
+1:58, 2:24, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.55, RotationCnt = 1
+1:58, 2:25, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.22, RotationCnt = 1
+1:58, 2:26, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.54, RotationCnt = 1
+1:58, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.98, RotationCnt = 1
+1:59, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.19, RotationCnt = 1
+1:60, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:61, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.93, RotationCnt = 1
+1:62, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.54, RotationCnt = 1
+1:63, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.04, RotationCnt = 1
+1:64, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.29, RotationCnt = 1
+1:65, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.97, RotationCnt = 1
+1:66, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:67, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:68, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:69, 2:27, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.60, RotationCnt = 1
+1:69, 2:28, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.12, RotationCnt = 1
+1:69, 2:29, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.52, RotationCnt = 1
+1:69, 2:30, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.30, RotationCnt = 1
+1:69, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:70, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:71, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:72, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:73, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:74, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:75, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:76, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.09, RotationCnt = 1
+1:77, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:78, 2:31, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.55, RotationCnt = 1
+1:78, 2:32, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.40, RotationCnt = 1
+1:78, 2:33, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.35, RotationCnt = 1
+1:78, 2:34, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.29, RotationCnt = 1
+1:78, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:79, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:80, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:81, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:82, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:83, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:84, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:85, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:86, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:87, 2:35, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.30, RotationCnt = 1
+1:87, 2:36, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.12, RotationCnt = 1
+1:87, 2:37, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.60, RotationCnt = 1
+1:87, 2:38, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.22, RotationCnt = 1
+1:87, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:88, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:89, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.97, RotationCnt = 1
+1:90, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:91, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:92, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:93, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:94, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:95, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:96, 2:39, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.45, RotationCnt = 1
+1:96, 2:40, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.20, RotationCnt = 1
+1:96, 2:41, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.54, RotationCnt = 1
+1:96, 2:42, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.25, RotationCnt = 1
+1:96, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:97, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:98, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:99, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:100, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:101, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.14, RotationCnt = 1
+1:102, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:103, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.27, RotationCnt = 1
+1:104, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:105, 2:43, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.49, RotationCnt = 1
+1:105, 2:44, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.55, RotationCnt = 1
+1:105, 2:45, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.35, RotationCnt = 1
+1:105, 2:46, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.10, RotationCnt = 1
+1:105, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:106, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:107, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:108, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:109, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:110, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:111, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:112, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:113, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.23, RotationCnt = 1
+1:114, 2:47, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.27, RotationCnt = 1
+1:114, 2:48, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.60, RotationCnt = 1
+1:114, 2:49, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.17, RotationCnt = 1
+1:114, 2:50, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.44, RotationCnt = 1
+1:114, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:115, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:116, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:117, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.14, RotationCnt = 1
+1:118, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:119, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:120, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:121, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:122, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:123, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:124, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.09, RotationCnt = 1
+1:125, 2:51, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.28, RotationCnt = 1
+1:125, 2:52, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.57, RotationCnt = 1
+1:125, 2:53, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.35, RotationCnt = 1
+1:125, 2:54, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.17, RotationCnt = 1
+1:125, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:126, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:127, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:128, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.95, RotationCnt = 1
+1:129, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:130, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:131, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:132, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:133, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.50, RotationCnt = 1
+1:134, 2:55, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.02, RotationCnt = 1
+1:134, 2:56, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.50, RotationCnt = 1
+1:134, 2:57, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.40, RotationCnt = 1
+1:134, 2:58, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.32, RotationCnt = 1
+1:134, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:135, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.03, RotationCnt = 1
+1:136, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:137, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.24, RotationCnt = 1
+1:138, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:139, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.14, RotationCnt = 1
+1:140, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:141, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:142, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.55, RotationCnt = 1
+1:143, 2:59, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.22, RotationCnt = 1
+1:143, 2:60, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.35, RotationCnt = 1
+1:143, 2:61, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.32, RotationCnt = 1
+1:143, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:144, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:145, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:146, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:147, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:148, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:149, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.39, RotationCnt = 1
+1:150, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.93, RotationCnt = 1
+1:151, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:152, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:153, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.48, RotationCnt = 1
+1:154, 2:62, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.31, RotationCnt = 1
+1:154, 2:63, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.30, RotationCnt = 1
+1:154, 2:64, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.19, RotationCnt = 1
+1:154, 2:65, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.63, RotationCnt = 1
+1:154, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:155, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.97, RotationCnt = 1
+1:156, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:157, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:158, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:159, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:160, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:161, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.14, RotationCnt = 1
+1:162, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:163, 2:66, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.25, RotationCnt = 1
+1:163, 2:67, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.40, RotationCnt = 1
+1:163, 2:68, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.49, RotationCnt = 1
+1:163, 2:69, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.28, RotationCnt = 1
+1:163, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:164, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.03, RotationCnt = 1
+1:165, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:166, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:167, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:168, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.04, RotationCnt = 1
+1:169, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.23, RotationCnt = 1
+1:170, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:171, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:172, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:173, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:174, 2:70, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.20, RotationCnt = 1
+1:174, 2:71, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.25, RotationCnt = 1
+1:174, 2:72, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.44, RotationCnt = 1
+1:174, 2:73, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.43, RotationCnt = 1
+1:174, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:175, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:176, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:177, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.44, RotationCnt = 1
+1:178, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.93, RotationCnt = 1
+1:179, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:180, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:181, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.04, RotationCnt = 1
+1:182, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:183, 2:74, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.42, RotationCnt = 1
+1:183, 2:75, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.40, RotationCnt = 1
+1:183, 2:76, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.50, RotationCnt = 1
+1:183, 2:77, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.12, RotationCnt = 1
+1:183, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:184, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:185, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.97, RotationCnt = 1
+1:186, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:187, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:188, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:189, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:190, 2:78, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.44, RotationCnt = 1
+1:190, 2:79, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.53, RotationCnt = 1
+1:190, 2:80, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.09, RotationCnt = 1
+1:190, 2:81, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.43, RotationCnt = 1
+1:190, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:191, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.03, RotationCnt = 1
+1:192, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:193, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.44, RotationCnt = 1
+1:194, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.98, RotationCnt = 1
+1:195, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:196, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:197, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:198, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:199, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:200, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.04, RotationCnt = 1
+1:201, 2:82, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.48, RotationCnt = 1
+1:201, 2:83, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.24, RotationCnt = 1
+1:201, 2:84, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.68, RotationCnt = 1
+1:201, 2:85, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.19, RotationCnt = 1
+1:201, 2:86, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:202, 2:86, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:203, 2:86, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:204, 2:86, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:205, 2:86, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:206, 2:86, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:207, 2:86, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.97, RotationCnt = 1
+1:208, 2:86, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:209, 2:86, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:210, 2:86, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.60, RotationCnt = 1
+1:210, 2:87, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.27, RotationCnt = 1
+1:210, 2:88, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.22, RotationCnt = 1
+1:210, 2:89, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.47, RotationCnt = 1
+1:210, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.03, RotationCnt = 1
+1:211, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:212, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:213, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.03, RotationCnt = 1
+1:214, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:215, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:216, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:217, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:218, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.98, RotationCnt = 1
+1:219, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:220, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.39, RotationCnt = 1
+1:221, 2:90, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.09, RotationCnt = 1
+1:221, 2:91, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.41, RotationCnt = 1
+1:221, 2:92, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.59, RotationCnt = 1
+1:221, 2:93, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.38, RotationCnt = 1
+1:221, 2:94, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:222, 2:94, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:223, 2:94, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:224, 2:94, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:225, 2:94, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:226, 2:94, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:227, 2:94, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.92, RotationCnt = 1
+1:228, 2:94, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:229, 2:94, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.47, RotationCnt = 1
+1:230, 2:94, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.40, RotationCnt = 1
+1:230, 2:95, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.20, RotationCnt = 1
+1:230, 2:96, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.62, RotationCnt = 1
+1:230, 2:97, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.09, RotationCnt = 1
+1:231, 2:97, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:232, 2:97, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:233, 2:97, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:234, 2:97, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.32, RotationCnt = 1
+1:235, 2:97, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:236, 2:97, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.48, RotationCnt = 1
+1:237, 2:97, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:238, 2:97, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.98, RotationCnt = 1
+1:239, 2:97, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.32, RotationCnt = 1
+1:239, 2:98, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.39, RotationCnt = 1
+1:239, 2:99, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.55, RotationCnt = 1
+1:239, 2:100, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.35, RotationCnt = 1
+1:239, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:240, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.09, RotationCnt = 1
+1:241, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:242, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:243, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:244, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.94, RotationCnt = 1
+1:245, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:246, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:247, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:248, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.14, RotationCnt = 1
+1:249, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:250, 2:101, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.15, RotationCnt = 1
+1:250, 2:102, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.52, RotationCnt = 1
+1:250, 2:103, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.39, RotationCnt = 1
+1:250, 2:104, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.50, RotationCnt = 1
+1:250, 2:105, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.97, RotationCnt = 1
+1:251, 2:105, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:252, 2:105, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:253, 2:105, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.04, RotationCnt = 1
+1:254, 2:105, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:255, 2:105, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:256, 2:105, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:257, 2:105, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:258, 2:105, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:259, 2:105, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.30, RotationCnt = 1
+1:259, 2:106, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.59, RotationCnt = 1
+1:259, 2:107, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.20, RotationCnt = 1
+1:259, 2:108, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.70, RotationCnt = 1
+1:259, 2:109, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:260, 2:109, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:261, 2:109, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.47, RotationCnt = 1
+1:262, 2:109, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:263, 2:109, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:264, 2:109, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.25, RotationCnt = 1
+1:265, 2:109, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:266, 2:109, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:267, 2:109, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:268, 2:109, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.45, RotationCnt = 1
+1:268, 2:110, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.47, RotationCnt = 1
+1:268, 2:111, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.34, RotationCnt = 1
+1:268, 2:112, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.35, RotationCnt = 1
+1:268, 2:113, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.23, RotationCnt = 1
+1:268, 2:114, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:269, 2:114, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:270, 2:114, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.42, RotationCnt = 1
+1:271, 2:114, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:272, 2:114, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:273, 2:114, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:274, 2:114, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:275, 2:114, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:276, 2:114, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.28, RotationCnt = 1
+1:277, 2:114, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.19, RotationCnt = 1
+1:277, 2:115, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.52, RotationCnt = 1
+1:277, 2:116, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.40, RotationCnt = 1
+1:277, 2:117, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:278, 2:117, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:279, 2:117, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.27, RotationCnt = 1
+1:280, 2:117, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.03, RotationCnt = 1
+1:281, 2:117, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:282, 2:117, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.50, RotationCnt = 1
+1:283, 2:117, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.12, RotationCnt = 1
+1:284, 2:117, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:285, 2:117, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:286, 2:117, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.47, RotationCnt = 1
+1:286, 2:118, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.25, RotationCnt = 1
+1:286, 2:119, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.31, RotationCnt = 1
+1:286, 2:120, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.51, RotationCnt = 1
+1:286, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:287, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.22, RotationCnt = 1
+1:288, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:289, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:290, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.97, RotationCnt = 1
+1:291, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:292, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.51, RotationCnt = 1
+1:293, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.06, RotationCnt = 1
+1:294, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:295, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:296, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:297, 2:121, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.28, RotationCnt = 1
+1:297, 2:122, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.69, RotationCnt = 1
+1:297, 2:123, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.20, RotationCnt = 1
+1:297, 2:124, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.30, RotationCnt = 1
+1:297, 2:125, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:298, 2:125, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.40, RotationCnt = 1
+1:299, 2:125, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:300, 2:125, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:301, 2:125, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:302, 2:125, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.34, RotationCnt = 1
+1:303, 2:125, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:304, 2:125, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:305, 2:125, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.07, RotationCnt = 1
+1:306, 2:125, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.55, RotationCnt = 1
+1:306, 2:126, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.19, RotationCnt = 1
+1:306, 2:127, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.40, RotationCnt = 1
+1:306, 2:128, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.35, RotationCnt = 1
+1:306, 2:129, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:307, 2:129, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:308, 2:129, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:309, 2:129, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:310, 2:129, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.20, RotationCnt = 1
+1:311, 2:129, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.14, RotationCnt = 1
+1:312, 2:129, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.33, RotationCnt = 1
+1:313, 2:129, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:314, 2:129, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:315, 2:129, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.62, RotationCnt = 1
+1:315, 2:130, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.22, RotationCnt = 1
+1:315, 2:131, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.42, RotationCnt = 1
+1:315, 2:132, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.23, RotationCnt = 1
+1:315, 2:133, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:316, 2:133, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:317, 2:133, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.04, RotationCnt = 1
+1:318, 2:133, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:319, 2:133, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:320, 2:133, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.80, RotationCnt = 1
+1:321, 2:133, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.47, RotationCnt = 1
+1:322, 2:133, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.05, RotationCnt = 1
+1:323, 2:133, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:324, 2:133, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.54, RotationCnt = 1
+1:324, 2:134, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.28, RotationCnt = 1
+1:324, 2:135, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.32, RotationCnt = 1
+1:324, 2:136, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.35, RotationCnt = 1
+1:324, 2:137, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:325, 2:137, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:326, 2:137, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.17, RotationCnt = 1
+1:327, 2:137, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:328, 2:137, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.99, RotationCnt = 1
+1:329, 2:137, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.30, RotationCnt = 1
+1:330, 2:137, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.10, RotationCnt = 1
+1:331, 2:137, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.47, RotationCnt = 1
+1:332, 2:137, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.08, RotationCnt = 1
+1:333, 2:137, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.27, RotationCnt = 1
+1:333, 2:138, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.40, RotationCnt = 1
+1:333, 2:139, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.54, RotationCnt = 1
+1:333, 2:140, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.08, RotationCnt = 1
+1:333, 2:141, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.49, RotationCnt = 1
+1:334, 2:141, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.92, RotationCnt = 1
+1:335, 2:141, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.51, RotationCnt = 1
+1:336, 2:141, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:337, 2:141, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.95, RotationCnt = 1
+1:338, 2:141, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.09, RotationCnt = 1
+1:339, 2:141, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:340, 2:141, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.09, RotationCnt = 1
+1:341, 2:141, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.43, RotationCnt = 1
+1:342, 2:141, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.30, RotationCnt = 1
+1:342, 2:142, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.17, RotationCnt = 1
+1:342, 2:143, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.54, RotationCnt = 1
+1:342, 2:144, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.20, RotationCnt = 1
+1:342, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.45, RotationCnt = 1
+1:343, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.00, RotationCnt = 1
+1:344, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.35, RotationCnt = 1
+1:345, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.15, RotationCnt = 1
+1:346, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:347, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.38, RotationCnt = 1
+1:348, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 0.99, RotationCnt = 1
+1:349, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.18, RotationCnt = 1
+1:350, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.37, RotationCnt = 1
+1:351, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.02, RotationCnt = 1
+1:352, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 1.13, RotationCnt = 1
+1:353, 2:145, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.57, RotationCnt = 1
+1:353, 2:146, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.29, RotationCnt = 1
+1:353, 2:147, 3:0, 4:0, Abn:0
+dwTimeSpace = 2.40, RotationCnt = 1
+1:353, 2:148, 3:0, 4:0, Abn:0
+START:Target Speed = 10

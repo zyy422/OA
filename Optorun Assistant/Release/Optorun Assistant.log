@@ -1,0 +1,66 @@
+﻿生成启动时间为 2018/9/13 17:07:08。
+     1>项目“D:\OA\Optorun Assistant\Optorun Assistant.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Optorun Assistant.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\TabCtrlSource\TabSDIFrameWnd .cpp" MainFrm.cpp OASysInfoView.cpp OAVacuumView.cpp "Optorun Assistant.cpp"
+         TabSDIFrameWnd .cpp
+         MainFrm.cpp
+     1>MainFrm.cpp(605): warning C4018: “<”: 有符号/无符号不匹配
+         OASysInfoView.cpp
+         OAVacuumView.cpp
+     1>OAVacuumView.cpp(2415): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+     1>OAVacuumView.cpp(3000): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>OAVacuumView.cpp(3001): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>OAVacuumView.cpp(3010): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>OAVacuumView.cpp(3135): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         Optorun Assistant.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\OA\Release\Optorun Assistant.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\OA\Release\Optorun Assistant.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE:NO /IMPLIB:"D:\OA\Release\Optorun Assistant.lib" /MACHINE:X86 /SAFESEH "Release\Optorun Assistant.res"
+         Release\APCGauge.obj
+         Release\DlgExhaustSetup.obj
+         Release\DlgInitVacTst.obj
+         Release\DlgSetIonGaugeMode.obj
+         Release\DlgSetSendChar.obj
+         Release\DlgVacBkPro.obj
+         Release\DlgVacCurveProperty.obj
+         Release\DlgVacErr.obj
+         Release\DlgVacExhaustEdit.obj
+         Release\DlgVacGaugeSetup.obj
+         Release\DomeRotateThread.obj
+         Release\DrawCrucibleThread.obj
+         Release\editex.obj
+         Release\GasController.obj
+         Release\IBGLCom.obj
+         Release\IonGauge.obj
+         Release\MainFrm.obj
+         Release\Markup.obj
+         Release\OACnfgDoc.obj
+         Release\OARotatorView.obj
+         Release\OASysInfoView.obj
+         Release\OAVacuumView.obj
+         Release\ODMCom.obj
+         "Release\Optorun Assistant.obj"
+         "Release\Optorun AssistantDoc.obj"
+         Release\PictureEx.obj
+         Release\PlcRdWrThread.obj
+         Release\RotatorThread.obj
+         Release\staticex.obj
+         Release\stdafx.obj
+         Release\SyncCom.obj
+         Release\SysmacPLC.obj
+         Release\VacuumProcessThread.obj
+         Release\Vcc500PropertyDlg.obj
+         Release\VGC500.obj
+         Release\ZYGraphData.obj
+         Release\ZYGraphPlot.obj
+         Release\ZzyWaitingThread.obj
+         Release\CustomTabCtrl.obj
+         "Release\TabSDIFrameWnd .obj"
+         Release\ThemeUtil.obj
+         正在生成代码
+         已完成代码的生成
+         Optorun Assistant.vcxproj -> D:\OA\Release\Optorun Assistant.exe
+     1>已完成生成项目“D:\OA\Optorun Assistant\Optorun Assistant.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.89

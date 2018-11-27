@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>d:\oa\tabctrlsource\</FILEPATH><FILENAME>themeutil.cpp</FILENAME><LINE>46</LINE><COLUMN>15</COLUMN></SFA><DEFECTCODE>28159</DEFECTCODE><DESCRIPTION>考虑使用“IsWindows*”而不是“GetVersionExW”。原因:  Deprecated. Use VerifyVersionInfo* or IsWindows* macros from VersionHelpers.</DESCRIPTION><FUNCTION>CThemeUtil::IsWinXP</FUNCTION><DECORATED>?IsWinXP@CThemeUtil@@AAEHXZ</DECORATED><FUNCLINE>41</FUNCLINE><PATH/></DEFECT></DEFECTS>

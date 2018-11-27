@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>d:\oa\optorun assistant\</FILEPATH><FILENAME>zygraphplot.cpp</FILENAME><LINE>765</LINE><COLUMN>10</COLUMN></SFA><DEFECTCODE>6284</DEFECTCODE><DESCRIPTION>传递了对象作为 _Param_(5)，而对“swprintf”的调用需要一个字符串，实际类型: “class ATL::CStringT&lt;wchar_t,class StrTraitMFC&lt;wchar_t,class ATL::ChTraitsCRT&lt;wchar_t&gt; &gt; &gt;”。</DESCRIPTION><FUNCTION>CZYGraphPlot::PlotGraph</FUNCTION><DECORATED>?PlotGraph@CZYGraphPlot@@QAE_NPAVCDC@@VCRect@@@Z</DECORATED><FUNCLINE>342</FUNCLINE><PATH/></DEFECT></DEFECTS>

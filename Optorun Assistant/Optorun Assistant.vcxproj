@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{9D2C2B95-675D-4A0A-ACB1-01CC9621D375}</ProjectGuid>
+    <RootNamespace>OptorunAssistant</RootNamespace>
+    <Keyword>MFCProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v120</PlatformToolset>
+    <UseOfMfc>Static</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v120</PlatformToolset>
+    <UseOfMfc>Static</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>12.0.21005.1</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>false</ValidateAllParameters>
+    </Midl>
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention />
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>false</ValidateAllParameters>
+    </Midl>
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention />
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="APCGauge.cpp" />
+    <ClCompile Include="DlgExhaustSetup.cpp" />
+    <ClCompile Include="DlgInitVacTst.cpp" />
+    <ClCompile Include="DlgSetIonGaugeMode.cpp" />
+    <ClCompile Include="DlgSetSendChar.cpp" />
+    <ClCompile Include="DlgVacBkPro.cpp" />
+    <ClCompile Include="DlgVacCurveProperty.cpp" />
+    <ClCompile Include="DlgVacErr.cpp" />
+    <ClCompile Include="DlgVacExhaustEdit.cpp" />
+    <ClCompile Include="DlgVacGaugeSetup.cpp" />
+    <ClCompile Include="DomeRotateThread.cpp" />
+    <ClCompile Include="DrawCrucibleThread.cpp" />
+    <ClCompile Include="editex.cxx" />
+    <ClCompile Include="GasController.cpp" />
+    <ClCompile Include="IBGLCom.cpp" />
+    <ClCompile Include="IonGauge.cpp" />
+    <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="..\XMLMarkup\Markup.cpp" />
+    <ClCompile Include="OACnfgDoc.cpp" />
+    <ClCompile Include="OARotatorView.cpp" />
+    <ClCompile Include="OASysInfoView.cpp" />
+    <ClCompile Include="OAVacuumView.cpp" />
+    <ClCompile Include="ODMCom.cpp" />
+    <ClCompile Include="Optorun Assistant.cpp" />
+    <ClCompile Include="Optorun AssistantDoc.cpp" />
+    <ClCompile Include="PictureEx.cpp" />
+    <ClCompile Include="PlcRdWrThread.cpp" />
+    <ClCompile Include="RotatorThread.cpp" />
+    <ClCompile Include="staticex.cxx" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="..\SyncCommSource\SyncCom.cpp" />
+    <ClCompile Include="..\SyncCommSource\SysmacPLC.cpp" />
+    <ClCompile Include="VacuumProcessThread.cpp" />
+    <ClCompile Include="Vcc500PropertyDlg.cpp" />
+    <ClCompile Include="VGC500.cpp" />
+    <ClCompile Include="ZYGraphData.cpp" />
+    <ClCompile Include="ZYGraphPlot.cpp" />
+    <ClCompile Include="ZzyWaitingThread.cpp" />
+    <ClCompile Include="..\TabCtrlSource\CustomTabCtrl.cpp" />
+    <ClCompile Include="..\TabCtrlSource\TabSDIFrameWnd .cpp" />
+    <ClCompile Include="..\TabCtrlSource\ThemeUtil.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\TabCtrlSource\ThemeUtil.h" />
+    <ClInclude Include="APCGauge.h" />
+    <ClInclude Include="..\TabCtrlSource\CustomTabCtrl.h" />
+    <ClInclude Include="DlgExhaustSetup.h" />
+    <ClInclude Include="DlgInitVacTst.h" />
+    <ClInclude Include="DlgSetIonGaugeMode.h" />
+    <ClInclude Include="DlgSetSendChar.h" />
+    <ClInclude Include="DlgVacBkPro.h" />
+    <ClInclude Include="DlgVacCurveProperty.h" />
+    <ClInclude Include="DlgVacErr.h" />
+    <ClInclude Include="DlgVacExhaustEdit.h" />
+    <ClInclude Include="DlgVacGaugeSetup.h" />
+    <ClInclude Include="DomeRotateThread.h" />
+    <ClInclude Include="DrawCrucibleThread.h" />
+    <ClInclude Include="editex.hxx" />
+    <ClInclude Include="GasController.h" />
+    <ClInclude Include="IBGLCom.h" />
+    <ClInclude Include="IonGauge.h" />
+    <ClInclude Include="logfont.hxx" />
+    <ClInclude Include="MainFrm.h" />
+    <ClInclude Include="..\XMLMarkup\Markup.h" />
+    <ClInclude Include="OACnfgDoc.h" />
+    <ClInclude Include="OARotatorView.h" />
+    <ClInclude Include="OASysInfoView.h" />
+    <ClInclude Include="OAVacuumView.h" />
+    <ClInclude Include="ODMCom.h" />
+    <ClInclude Include="Optorun Assistant.h" />
+    <ClInclude Include="Optorun AssistantDoc.h" />
+    <ClInclude Include="PictureEx.h" />
+    <ClInclude Include="PlcRdWrThread.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="RotatorThread.h" />
+    <ClInclude Include="staticex.hxx" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="..\SyncCommSource\SyncCom.h" />
+    <ClInclude Include="..\SyncCommSource\SysmacPLC.h" />
+    <ClInclude Include="..\TabCtrlSource\TabSDIFrameWnd.h" />
+    <ClInclude Include="VacuumProcessThread.h" />
+    <ClInclude Include="Vcc500PropertyDlg.h" />
+    <ClInclude Include="VGC500.h" />
+    <ClInclude Include="ZYGraphData.h" />
+    <ClInclude Include="ZYGraphPlot.h" />
+    <ClInclude Include="ZzyWaitingThread.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\cursor1.cur" />
+    <None Include="res\oa_file_.bin" />
+    <None Include="res\OptorunAssistant.rc2" />
+    <None Include="..\debug\language\OA_Chinese.lng" />
+    <None Include="..\debug\language\OA_English.lng" />
+    <None Include="..\debug\OptorunAssistant.ini" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\icon1.ico" />
+    <Image Include="res\LEDNumber.bmp" />
+    <Image Include="res\Optorun Assistant.ico" />
+    <Image Include="res\Optorun AssistantDoc.ico" />
+    <Image Include="res\OptorunLog.gif" />
+    <Image Include="res\Toolbar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Optorun Assistant.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="Optorun Assistant.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
