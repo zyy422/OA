@@ -1,1 +1,1 @@
-# This file is company coding for understand serial communication
+# This file is company coding for the understanding of serial communication
